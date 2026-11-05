@@ -1,0 +1,44 @@
+
+
+#Experiment 3 and 4: lmer
+
+#The within-pool co-efficient of variation (CV) was calculated for each sample. 
+#The co-efficient of variation (CV) is calculated as the standard deviation of within-pool read proportions divided by the mean of the within-pool read proportions. 
+#A CV of 0 means samples were sequenced exactly evenly. 
+#We performed a linear mixed model in R v4.2.3 with the CV as the response variable, with capture or shotgun (“Sequencing”) and library preparation input and size (“Treatment”) as fixed effects, and pool (“Batch”) as a random effect:
+
+evenness_cv_exp34<-read.csv("evenness_cv_exp34.csv",header=TRUE)
+head(evenness_cv_exp34)
+cv.mod<-lmer(CV ~ Treatment * Sequencing + (1|Batch), data=evenness_cv_exp34,REML=TRUE)
+summary(cv.mod)
+
+#Model estimated means and 95% confidence intervals were calculated:
+
+emm<- emmeans(cv.mod, ~Treatment*Sequencing, lmer.df="satterthwaite")
+emm
+
+#Further simplify the model by removing the interaction between “Treatment” and “Sequencing”
+
+cv.mod2<-lmer(CV ~ Treatment + Sequencing + (1|Batch), data=evenness_cv_exp34,REML=TRUE)
+anova(cv.mod, cv.mod2)
+
+#The interaction is non-signficiant. Further simplify the model by removing the “Sequencing” term:
+
+cv.mod3<-lmer(CV ~ Treatment + (1|Batch), data=evenness_cv_exp34,REML=TRUE)
+anova(cv.mod2, cv.mod3)
+
+#“Sequencing” is not a significant factor. Further simplify the model by removing “Treatment”:
+
+cv.mod4<-lmer(CV ~ (1|Batch), data=evenness_cv_exp34,REML=TRUE)
+anova(cv.mod3, cv.mod4)
+
+#”Treatment” is not a significant factor. The random factor “Batch” contributes marginally to variance. 
+
+VarCorr(cv.mod4)
+summary(cv.mod4)
+
+#Model residuals were approximately normally distributed according to the Q-Q plot, however, the Shapiro-Wilk test indicated significant deviations from normality:
+
+hist(residuals(cv.mod4))
+qqnorm(residuals(cv.mod4))
+shapiro.test(residuals(cv.mod4))
