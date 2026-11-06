@@ -1,0 +1,752 @@
+Sample,Batch,Genus,Tribe,Size,Input_cat,Input_cont,Treatment,Experiment,Chlp,Ast353
+Brachyscome_barkerae_AG003,AG_P1P15C,Brachyscome,Astereae,mini,20ng,20,20M,exp3_4,13.01628383,49.3498962
+Brachyscome_barkerae_AG003,AG_P1P7C,Brachyscome,Astereae,mini,2ng,2,2M,exp3_4,29.85010245,48.21345134
+Brachyscome_barkerae_AG003,AG_P1P19C,Brachyscome,Astereae,mini,40ng,40,40M,exp3_4,11.8839642,56.26844822
+Brachyscome_barkerae_AG003,AG_P1P11C,Brachyscome,Astereae,mini,5ng,5,5M,exp3_4,43.83694597,50.16227671
+Brachyscome_barkerae_AG003,AG_P1P23C,Brachyscome,Astereae,standard,5ng,5,5S,exp3_4,11.5658363,63.54324908
+Brachyscome_basaltica_AG004,AG_P1P15C,Brachyscome,Astereae,mini,20ng,20,20M,exp3_4,21.06653726,47.04926124
+Brachyscome_basaltica_AG004,AG_P1P7C,Brachyscome,Astereae,mini,2ng,2,2M,exp3_4,50.15097595,42.87859738
+Brachyscome_basaltica_AG004,AG_P1P19C,Brachyscome,Astereae,mini,40ng,40,40M,exp3_4,10.48204465,41.98298116
+Brachyscome_basaltica_AG004,AG_P1P11C,Brachyscome,Astereae,mini,5ng,5,5M,exp3_4,77.42370322,49.38873953
+Brachyscome_basaltica_AG004,AG_P1P23C,Brachyscome,Astereae,standard,5ng,5,5S,exp3_4,21.39544915,54.24859505
+Brachyscome_bellidioides_AG005,AG_P1P13C,Brachyscome,Astereae,mini,20ng,20,20M,exp3_4,28.53445487,29.28898083
+Brachyscome_bellidioides_AG005,AG_P1P5C,Brachyscome,Astereae,mini,2ng,2,2M,exp3_4,31.82357382,32.98464625
+Brachyscome_bellidioides_AG005,AG_P1P9C,Brachyscome,Astereae,mini,5ng,5,5M,exp3_4,33.24166936,35.81687993
+Brachyscome_bellidioides_AG005,AG_P1P21C,Brachyscome,Astereae,standard,5ng,5,5S,exp3_4,30.09274237,59.1006819
+Brachyscome_ciliaris_var_lanuginosa_AG010,AG_P1P16C,Brachyscome,Astereae,mini,20ng,20,20M,exp3_4,8.497789281,56.94210255
+Brachyscome_ciliaris_var_lanuginosa_AG010,AG_P1P8C,Brachyscome,Astereae,mini,2ng,2,2M,exp3_4,14.39663539,49.73278045
+Brachyscome_ciliaris_var_lanuginosa_AG010,AG_P1P20C,Brachyscome,Astereae,mini,40ng,40,40M,exp3_4,9.613932924,54.22639886
+Brachyscome_ciliaris_var_lanuginosa_AG010,AG_P1P12C,Brachyscome,Astereae,mini,5ng,5,5M,exp3_4,35.20974873,65.69184015
+Brachyscome_ciliaris_var_lanuginosa_AG010,AG_P1P24C,Brachyscome,Astereae,standard,5ng,5,5S,exp3_4,25.45023186,56.91102789
+Brachyscome_exilis_AG025,AG_P1P13C,Brachyscome,Astereae,mini,20ng,20,20M,exp3_4,71.39005716,61.39021877
+Brachyscome_exilis_AG025,AG_P1P5C,Brachyscome,Astereae,mini,2ng,2,2M,exp3_4,40.634099,63.67975564
+Brachyscome_exilis_AG025,AG_P1P17C,Brachyscome,Astereae,mini,40ng,40,40M,exp3_4,36.69254826,63.02274845
+Brachyscome_exilis_AG025,AG_P1P9C,Brachyscome,Astereae,mini,5ng,5,5M,exp3_4,33.29558935,62.33022736
+Brachyscome_exilis_AG025,AG_P1P21C,Brachyscome,Astereae,standard,5ng,5,5S,exp3_4,36.61166828,71.99444793
+Brachyscome_gilesii_AG027,AG_P1P14C,Brachyscome,Astereae,mini,20ng,20,20M,exp3_4,19.96656961,36.3895416
+Brachyscome_gilesii_AG027,AG_P1P6C,Brachyscome,Astereae,mini,2ng,2,2M,exp3_4,10.80556454,26.04500785
+Brachyscome_gilesii_AG027,AG_P1P18C,Brachyscome,Astereae,mini,40ng,40,40M,exp3_4,4.588590532,38.80115751
+Brachyscome_gilesii_AG027,AG_P1P10C,Brachyscome,Astereae,mini,5ng,5,5M,exp3_4,7.769869514,44.71755161
+Brachyscome_gilesii_AG027,AG_P1P22C,Brachyscome,Astereae,standard,5ng,5,5S,exp3_4,6.497357921,37.71132464
+Brachyscome_goniocarpa_AG028,AG_P1P13C,Brachyscome,Astereae,mini,20ng,20,20M,exp3_4,35.81904454,54.58042807
+Brachyscome_goniocarpa_AG028,AG_P1P5C,Brachyscome,Astereae,mini,2ng,2,2M,exp3_4,16.00884288,46.95159801
+Brachyscome_goniocarpa_AG028,AG_P1P17C,Brachyscome,Astereae,mini,40ng,40,40M,exp3_4,9.457564974,46.71853803
+Brachyscome_goniocarpa_AG028,AG_P1P9C,Brachyscome,Astereae,mini,5ng,5,5M,exp3_4,14.94122722,48.76391682
+Brachyscome_goniocarpa_AG028,AG_P1P21C,Brachyscome,Astereae,standard,5ng,5,5S,exp3_4,17.34605845,61.46124658
+Brachyscome_gracilis_AG029,AG_P1P13C,Brachyscome,Astereae,mini,20ng,20,20M,exp3_4,99.28825623,67.05246651
+Brachyscome_gracilis_AG029,AG_P1P5C,Brachyscome,Astereae,mini,2ng,2,2M,exp3_4,82.23875768,65.59639653
+Brachyscome_gracilis_AG029,AG_P1P17C,Brachyscome,Astereae,mini,40ng,40,40M,exp3_4,80.54567023,69.83697839
+Brachyscome_gracilis_AG029,AG_P1P9C,Brachyscome,Astereae,mini,5ng,5,5M,exp3_4,92.23013049,68.18780157
+Brachyscome_gracilis_AG029,AG_P1P21C,Brachyscome,Astereae,standard,5ng,5,5S,exp3_4,83.98576512,75.28836234
+Brachyscome_melanocarpa_AG035,AG_P1P16C,Brachyscome,Astereae,mini,20ng,20,20M,exp3_4,4.076350696,49.18009535
+Brachyscome_melanocarpa_AG035,AG_P1P8C,Brachyscome,Astereae,mini,2ng,2,2M,exp3_4,8.611021244,40.05968141
+Brachyscome_melanocarpa_AG035,AG_P1P20C,Brachyscome,Astereae,mini,40ng,40,40M,exp3_4,9.193357058,49.55077171
+Brachyscome_melanocarpa_AG035,AG_P1P12C,Brachyscome,Astereae,mini,5ng,5,5M,exp3_4,16.66127467,58.76662926
+Brachyscome_melanocarpa_AG035,AG_P1P24C,Brachyscome,Astereae,standard,5ng,5,5S,exp3_4,16.76372264,53.52277968
+Brachyscome_obovata_AG041,AG_P1P16C,Brachyscome,Astereae,mini,20ng,20,20M,exp3_4,11.40946835,51.45853413
+Brachyscome_obovata_AG041,AG_P1P8C,Brachyscome,Astereae,mini,2ng,2,2M,exp3_4,16.8607786,42.19162534
+Brachyscome_obovata_AG041,AG_P1P20C,Brachyscome,Astereae,mini,40ng,40,40M,exp3_4,8.573277257,34.49176747
+Brachyscome_obovata_AG041,AG_P1P12C,Brachyscome,Astereae,mini,5ng,5,5M,exp3_4,60.68694058,66.98254852
+Brachyscome_obovata_AG041,AG_P1P24C,Brachyscome,Astereae,standard,5ng,5,5S,exp3_4,37.39890003,54.19199477
+Brachyscome_papillosa_AG043,AG_P1P16C,Brachyscome,Astereae,mini,20ng,20,20M,exp3_4,12.40159603,59.56458225
+Brachyscome_papillosa_AG043,AG_P1P8C,Brachyscome,Astereae,mini,2ng,2,2M,exp3_4,18.76954599,53.25864503
+Brachyscome_papillosa_AG043,AG_P1P20C,Brachyscome,Astereae,mini,40ng,40,40M,exp3_4,22.10719293,58.91534373
+Brachyscome_papillosa_AG043,AG_P1P12C,Brachyscome,Astereae,mini,5ng,5,5M,exp3_4,40.84977893,68.67944715
+Brachyscome_papillosa_AG043,AG_P1P24C,Brachyscome,Astereae,standard,5ng,5,5S,exp3_4,40.42381106,61.85633873
+Brachyscome_procumbens_AG047,AG_P1P15C,Brachyscome,Astereae,mini,20ng,20,20M,exp3_4,12.33150005,53.67593338
+Brachyscome_procumbens_AG047,AG_P1P7C,Brachyscome,Astereae,mini,2ng,2,2M,exp3_4,28.7609188,58.16955179
+Brachyscome_procumbens_AG047,AG_P1P19C,Brachyscome,Astereae,mini,40ng,40,40M,exp3_4,14.31036342,56.92656522
+Brachyscome_procumbens_AG047,AG_P1P11C,Brachyscome,Astereae,mini,5ng,5,5M,exp3_4,50.3019519,49.94142463
+Brachyscome_procumbens_AG047,AG_P1P23C,Brachyscome,Astereae,standard,5ng,5,5S,exp3_4,11.8839642,61.64991418
+Brachyscome_ptychocarpa_AG048,AG_P1P13C,Brachyscome,Astereae,mini,20ng,20,20M,exp3_4,92.30561846,53.24865675
+Brachyscome_ptychocarpa_AG048,AG_P1P5C,Brachyscome,Astereae,mini,2ng,2,2M,exp3_4,56.61058988,43.22707754
+Brachyscome_ptychocarpa_AG048,AG_P1P17C,Brachyscome,Astereae,mini,40ng,40,40M,exp3_4,66.98479456,57.2184451
+Brachyscome_ptychocarpa_AG048,AG_P1P9C,Brachyscome,Astereae,mini,5ng,5,5M,exp3_4,71.886121,56.60472048
+Brachyscome_ptychocarpa_AG048,AG_P1P21C,Brachyscome,Astereae,standard,5ng,5,5S,exp3_4,71.90229699,67.81379579
+Brachyscome_rigidula_AG052,AG_P1P14C,Brachyscome,Astereae,mini,20ng,20,20M,exp3_4,85.25288472,52.38744463
+Brachyscome_rigidula_AG052,AG_P1P6C,Brachyscome,Astereae,mini,2ng,2,2M,exp3_4,38.1376038,35.17651989
+Brachyscome_rigidula_AG052,AG_P1P18C,Brachyscome,Astereae,mini,40ng,40,40M,exp3_4,22.73266473,55.83562254
+Brachyscome_rigidula_AG052,AG_P1P10C,Brachyscome,Astereae,mini,5ng,5,5M,exp3_4,35.45778065,55.50378952
+Brachyscome_rigidula_AG052,AG_P1P22C,Brachyscome,Astereae,standard,5ng,5,5S,exp3_4,36.5469643,52.06781951
+Brachyscome_smithwhitei_AG057,AG_P1P14C,Brachyscome,Astereae,mini,20ng,20,20M,exp3_4,66.11129084,54.81681748
+Brachyscome_smithwhitei_AG057,AG_P1P6C,Brachyscome,Astereae,mini,2ng,2,2M,exp3_4,28.15162299,45.15814596
+Brachyscome_smithwhitei_AG057,AG_P1P18C,Brachyscome,Astereae,mini,40ng,40,40M,exp3_4,19.98274561,56.61470877
+Brachyscome_smithwhitei_AG057,AG_P1P10C,Brachyscome,Astereae,mini,5ng,5,5M,exp3_4,20.80232934,58.1706616
+Brachyscome_smithwhitei_AG057,AG_P1P22C,Brachyscome,Astereae,standard,5ng,5,5S,exp3_4,25.12671196,55.66471189
+Brachyscome_tamworthensis_AG062,AG_P1P15C,Brachyscome,Astereae,mini,20ng,20,20M,exp3_4,16.89852259,55.89111302
+Brachyscome_tamworthensis_AG062,AG_P1P7C,Brachyscome,Astereae,mini,2ng,2,2M,exp3_4,30.56723822,53.88679717
+Brachyscome_tamworthensis_AG062,AG_P1P19C,Brachyscome,Astereae,mini,40ng,40,40M,exp3_4,13.38293972,57.89764848
+Brachyscome_tamworthensis_AG062,AG_P1P11C,Brachyscome,Astereae,mini,5ng,5,5M,exp3_4,56.10913405,56.74899571
+Brachyscome_tamworthensis_AG062,AG_P1P23C,Brachyscome,Astereae,standard,5ng,5,5S,exp3_4,14.19173946,62.8285318
+Brachyscome_tetrapterocarpa_AG065,AG_P1P15C,Brachyscome,Astereae,mini,20ng,20,20M,exp3_4,16.44559474,54.5138395
+Brachyscome_tetrapterocarpa_AG065,AG_P1P7C,Brachyscome,Astereae,mini,2ng,2,2M,exp3_4,34.92936482,50.55071001
+Brachyscome_tetrapterocarpa_AG065,AG_P1P19C,Brachyscome,Astereae,mini,40ng,40,40M,exp3_4,13.16725979,58.71446822
+Brachyscome_tetrapterocarpa_AG065,AG_P1P11C,Brachyscome,Astereae,mini,5ng,5,5M,exp3_4,59.18796506,56.19964004
+Brachyscome_tetrapterocarpa_AG065,AG_P1P23C,Brachyscome,Astereae,standard,5ng,5,5S,exp3_4,9.743340882,59.38590293
+Celmisia_discolor_AG181,AG_P1P14C,Celmisia,Astereae,mini,20ng,20,20M,exp3_4,50.43135986,51.81589277
+Celmisia_discolor_AG181,AG_P1P6C,Celmisia,Astereae,mini,2ng,2,2M,exp3_4,25.43405586,39.59134183
+Celmisia_discolor_AG181,AG_P1P18C,Celmisia,Astereae,mini,40ng,40,40M,exp3_4,15.04367519,55.29847478
+Celmisia_discolor_AG181,AG_P1P10C,Celmisia,Astereae,mini,5ng,5,5M,exp3_4,20.54351343,57.14963692
+Celmisia_discolor_AG181,AG_P1P22C,Celmisia,Astereae,standard,5ng,5,5S,exp3_4,21.20133722,58.16289293
+Myriocephalus_appendiculatus_LL184,AG_P1P13C,Myriocephalus,Gnaphalieae,mini,20ng,20,20M,exp3_4,85.53866063,32.49300067
+Myriocephalus_appendiculatus_LL184,AG_P1P5C,Myriocephalus,Gnaphalieae,mini,2ng,2,2M,exp3_4,31.21427801,29.21795303
+Myriocephalus_appendiculatus_LL184,AG_P1P17C,Myriocephalus,Gnaphalieae,mini,40ng,40,40M,exp3_4,44.9962256,34.99895038
+Myriocephalus_appendiculatus_LL184,AG_P1P9C,Myriocephalus,Gnaphalieae,mini,5ng,5,5M,exp3_4,31.76965383,28.90498677
+Myriocephalus_appendiculatus_LL184,AG_P1P21C,Myriocephalus,Gnaphalieae,standard,5ng,5,5S,exp3_4,48.95395233,41.62895195
+Myriocephalus_oldfieldii_LL186,AG_P1P13C,Myriocephalus,Gnaphalieae,mini,20ng,20,20M,exp3_4,98.67356842,41.06516876
+Myriocephalus_oldfieldii_LL186,AG_P1P5C,Myriocephalus,Gnaphalieae,mini,2ng,2,2M,exp3_4,73.1101046,44.53221344
+Myriocephalus_oldfieldii_LL186,AG_P1P17C,Myriocephalus,Gnaphalieae,mini,40ng,40,40M,exp3_4,81.04712606,43.78642149
+Myriocephalus_oldfieldii_LL186,AG_P1P9C,Myriocephalus,Gnaphalieae,mini,5ng,5,5M,exp3_4,79.41335059,40.82766954
+Myriocephalus_oldfieldii_LL186,AG_P1P21C,Myriocephalus,Gnaphalieae,standard,5ng,5,5S,exp3_4,97.56820878,60.05733764
+Myriocephalus_scalpellus_LL180,AG_P1P14C,Myriocephalus,Gnaphalieae,mini,20ng,20,20M,exp3_4,99.88676804,60.32258209
+Myriocephalus_scalpellus_LL180,AG_P1P6C,Myriocephalus,Gnaphalieae,mini,2ng,2,2M,exp3_4,98.02652863,60.34366847
+Myriocephalus_scalpellus_LL180,AG_P1P18C,Myriocephalus,Gnaphalieae,mini,40ng,40,40M,exp3_4,88.55278766,60.946295
+Myriocephalus_scalpellus_LL180,AG_P1P10C,Myriocephalus,Gnaphalieae,mini,5ng,5,5M,exp3_4,96.84568101,65.81724861
+Myriocephalus_scalpellus_LL180,AG_P1P22C,Myriocephalus,Gnaphalieae,standard,5ng,5,5S,exp3_4,97.24468888,58.77772736
+Olearia_alpicola_AG073,AG_P1P13C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,5.354254287,72.22306868
+Olearia_alpicola_AG073,AG_P1P5C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,3.946942737,65.75620909
+Olearia_alpicola_AG073,AG_P1P17C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,2.669039146,67.45532734
+Olearia_alpicola_AG073,AG_P1P9C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,5.095438369,67.41315458
+Olearia_alpicola_AG073,AG_P1P21C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,3.364606923,77.77433548
+Olearia_arborescens_AG172,AG_P1P13C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,10.68154858,56.27288746
+Olearia_arborescens_AG172,AG_P1P5C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,5.138574356,50.83371141
+Olearia_arborescens_AG172,AG_P1P17C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,7.548797584,64.21912302
+Olearia_arborescens_AG172,AG_P1P9C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,8.859053165,59.90307413
+Olearia_arborescens_AG172,AG_P1P21C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,9.274237032,74.67463772
+Olearia_argophylla_AG075,AG_P1P15C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,7.516445595,65.78728376
+Olearia_argophylla_AG075,AG_P1P7C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,23.28804055,64.05820066
+Olearia_argophylla_AG075,AG_P1P19C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,8.109565405,69.34644262
+Olearia_argophylla_AG075,AG_P1P11C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,34.77838887,65.94043746
+Olearia_argophylla_AG075,AG_P1P23C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,10.87566052,71.67371301
+Olearia_arguta_var_arguta_AG076,AG_P1P14C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,19.48128977,51.16221501
+Olearia_arguta_var_arguta_AG076,AG_P1P6C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,8.109565405,35.16209237
+Olearia_arguta_var_arguta_AG076,AG_P1P18C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,8.222797369,54.03662145
+Olearia_arguta_var_arguta_AG076,AG_P1P10C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,7.645853553,55.97989777
+Olearia_arguta_var_arguta_AG076,AG_P1P22C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,11.12369244,55.03544994
+Olearia_astroloba_AG079,AG_P1P15C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,4.583198533,41.56791243
+Olearia_astroloba_AG079,AG_P1P7C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,11.65210827,37.86891758
+Olearia_astroloba_AG079,AG_P1P19C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,3.224414968,50.71274219
+Olearia_astroloba_AG079,AG_P1P11C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,16.85538661,40.95751724
+Olearia_astroloba_AG079,AG_P1P23C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,5.909630109,54.92113957
+Olearia_axillaris_AG080,AG_P1P15C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,3.202846975,43.72427217
+Olearia_axillaris_AG080,AG_P1P7C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,3.402350911,33.60946897
+Olearia_axillaris_AG080,AG_P1P19C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,4.534670549,48.49423312
+Olearia_axillaris_AG080,AG_P1P11C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,6.928717783,42.3758537
+Olearia_axillaris_AG080,AG_P1P23C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,4.696430497,51.70158239
+Olearia_ballii_AG081,AG_P1P16C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,5.769438154,40.90868563
+Olearia_ballii_AG081,AG_P1P8C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,6.411085948,28.13699864
+Olearia_ballii_AG081,AG_P1P20C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,7.807613502,37.83229387
+Olearia_ballii_AG081,AG_P1P12C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,17.06028254,53.05222048
+Olearia_ballii_AG081,AG_P1P24C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,8.233581365,33.66163001
+Olearia_brachyphylla_AG082,AG_P1P16C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,4.928286423,48.79388167
+Olearia_brachyphylla_AG082,AG_P1P8C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,4.421438585,29.85387383
+Olearia_brachyphylla_AG082,AG_P1P20C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,6.195406017,42.96072327
+Olearia_brachyphylla_AG082,AG_P1P12C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,13.23735576,58.01306866
+Olearia_brachyphylla_AG082,AG_P1P24C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,11.40407635,45.00277264
+Olearia_burgessii_AG084,AG_P1P16C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,3.132750998,28.9438301
+Olearia_burgessii_AG084,AG_P1P8C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,3.391566915,21.03088882
+Olearia_burgessii_AG084,AG_P1P20C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,2.690607139,30.80609033
+Olearia_burgessii_AG084,AG_P1P12C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,8.654157231,40.79881449
+Olearia_burgessii_AG084,AG_P1P24C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,6.84244581,35.44731339
+Olearia_canescens_subsp_canescens_AG086,AG_P1P15C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,1.96807937,39.56137697
+Olearia_canescens_subsp_canescens_AG086,AG_P1P7C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,5.693950178,34.8136122
+Olearia_canescens_subsp_canescens_AG086,AG_P1P19C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,3.801358784,45.04938463
+Olearia_canescens_subsp_canescens_AG086,AG_P1P11C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,5.904238111,41.74548194
+Olearia_canescens_subsp_canescens_AG086,AG_P1P23C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,4.130270678,48.59855521
+Olearia_cordata_AG090,AG_P1P14C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,13.45842769,25.72538273
+Olearia_cordata_AG090,AG_P1P6C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,7.489485603,13.50638084
+Olearia_cordata_AG090,AG_P1P18C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,1.995039362,28.65638945
+Olearia_cordata_AG090,AG_P1P10C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,7.484093605,30.10691038
+Olearia_cordata_AG090,AG_P1P22C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,6.637549876,32.06794366
+Olearia_cydoniifolia_AG092,AG_P1P16C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,5.408174269,58.42591777
+Olearia_cydoniifolia_AG092,AG_P1P8C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,8.09338941,52.68598336
+Olearia_cydoniifolia_AG092,AG_P1P20C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,9.538444948,55.50711895
+Olearia_cydoniifolia_AG092,AG_P1P12C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,23.82724038,67.96140044
+Olearia_cydoniifolia_AG092,AG_P1P24C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,20.17146555,62.88846151
+Olearia_cymbifolia_AG174,AG_P1P13C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,20.34940149,65.85498213
+Olearia_cymbifolia_AG174,AG_P1P5C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,14.89809123,62.19039137
+Olearia_cymbifolia_AG174,AG_P1P17C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,7.586541572,61.70318503
+Olearia_cymbifolia_AG174,AG_P1P9C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,11.46878033,63.29576157
+Olearia_cymbifolia_AG174,AG_P1P21C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,11.46878033,72.39397933
+Olearia_elaeophila_AG096,AG_P1P15C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,2.070527337,25.39687914
+Olearia_elaeophila_AG096,AG_P1P7C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,5.823358137,27.63425496
+Olearia_elaeophila_AG096,AG_P1P19C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,5.294942306,56.93544369
+Olearia_elaeophila_AG096,AG_P1P11C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,7.974765448,29.33004378
+Olearia_elaeophila_AG096,AG_P1P23C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,3.715086811,46.38781481
+Olearia_eremaea_AG098,AG_P1P16C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,3.456270894,43.05283746
+Olearia_eremaea_AG098,AG_P1P8C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,4.90671843,31.24446506
+Olearia_eremaea_AG098,AG_P1P20C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,10.55753262,38.10974623
+Olearia_eremaea_AG098,AG_P1P12C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,14.33732341,51.17775234
+Olearia_eremaea_AG098,AG_P1P24C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,15.06524318,43.14273202
+Olearia_ericoides_AG099,AG_P1P14C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,16.39706675,55.88667378
+Olearia_ericoides_AG099,AG_P1P6C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,10.79478055,36.14982276
+Olearia_ericoides_AG099,AG_P1P18C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,5.241022323,56.56587715
+Olearia_ericoides_AG099,AG_P1P10C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,7.408605629,54.38621142
+Olearia_ericoides_AG099,AG_P1P22C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,7.575757576,57.49145822
+Olearia_erubescens_AG100,AG_P1P13C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,47.06136094,61.12164489
+Olearia_erubescens_AG100,AG_P1P5C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,19.49207376,64.77069831
+Olearia_erubescens_AG100,AG_P1P17C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,16.06276286,49.22337792
+Olearia_erubescens_AG100,AG_P1P9C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,28.41583091,59.95967441
+Olearia_erubescens_AG100,AG_P1P21C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,17.8205543,73.43165115
+Olearia_exiguifolia_AG101,AG_P1P15C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,4.459182573,46.33010472
+Olearia_exiguifolia_AG101,AG_P1P7C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,11.50113232,43.48677295
+Olearia_exiguifolia_AG101,AG_P1P19C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,4.038606708,51.89468924
+Olearia_exiguifolia_AG101,AG_P1P11C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,23.73018441,41.85535308
+Olearia_exiguifolia_AG101,AG_P1P23C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,6.885581797,56.49595916
+Olearia_frostii_AG104,AG_P1P14C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,32.88579748,43.04950803
+Olearia_frostii_AG104,AG_P1P6C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,12.25062008,22.43035851
+Olearia_frostii_AG104,AG_P1P18C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,9.640892915,44.52888401
+Olearia_frostii_AG104,AG_P1P10C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,11.59279629,42.5756194
+Olearia_frostii_AG104,AG_P1P22C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,11.68985226,48.55860207
+Olearia_gordonii_AG107,AG_P1P13C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,4.40526259,22.48917841
+Olearia_gordonii_AG107,AG_P1P5C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,1.445055538,14.31987115
+Olearia_gordonii_AG107,AG_P1P17C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,2.598943168,30.00369811
+Olearia_gordonii_AG107,AG_P1P9C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,1.326431576,20.88328416
+Olearia_gordonii_AG107,AG_P1P21C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,3.849886768,35.7070088
+Olearia_heterocarpa_AG110,AG_P1P16C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,2.199935296,26.43122153
+Olearia_heterocarpa_AG110,AG_P1P8C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,2.642079155,21.22510547
+Olearia_heterocarpa_AG110,AG_P1P20C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,1.984255365,29.02817561
+Olearia_heterocarpa_AG110,AG_P1P12C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,8.508573277,40.63789212
+Olearia_heterocarpa_AG110,AG_P1P24C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,8.141917395,34.46402223
+Olearia_imbricata_AG115,AG_P1P13C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,23.17480858,40.36265938
+Olearia_imbricata_AG115,AG_P1P5C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,13.32901973,28.4266589
+Olearia_imbricata_AG115,AG_P1P17C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,10.58449261,45.14815767
+Olearia_imbricata_AG115,AG_P1P9C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,11.38790036,35.37073654
+Olearia_imbricata_AG115,AG_P1P21C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,14.30497142,57.40378328
+Olearia_laciniifolia_AG118,AG_P1P15C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,3.769006794,36.90449318
+Olearia_laciniifolia_AG118,AG_P1P7C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,19.17394586,42.4224657
+Olearia_laciniifolia_AG118,AG_P1P19C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,7.667421546,45.9516597
+Olearia_laciniifolia_AG118,AG_P1P11C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,34.08821309,39.59911049
+Olearia_laciniifolia_AG118,AG_P1P23C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,8.664941227,54.81015862
+Olearia_lanuginosa_AG120,AG_P1P16C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,6.173838024,51.07786949
+Olearia_lanuginosa_AG120,AG_P1P8C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,9.123261081,40.40927138
+Olearia_lanuginosa_AG120,AG_P1P20C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,9.867356842,47.72291556
+Olearia_lanuginosa_AG120,AG_P1P12C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,22.03709695,63.22029453
+Olearia_lanuginosa_AG120,AG_P1P24C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,15.45346705,52.12885903
+Olearia_ledifolia_AG122,AG_P1P14C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,28.94424674,55.24964316
+Olearia_ledifolia_AG122,AG_P1P6C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,15.51277904,49.27220954
+Olearia_ledifolia_AG122,AG_P1P18C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,2.830799094,40.9641761
+Olearia_ledifolia_AG122,AG_P1P10C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,14.66084331,61.58110599
+Olearia_ledifolia_AG122,AG_P1P22C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,11.94327618,59.67112395
+Olearia_lepidophylla_AG123,AG_P1P14C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,18.04162623,40.72556707
+Olearia_lepidophylla_AG123,AG_P1P6C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,8.152701391,23.53905814
+Olearia_lepidophylla_AG123,AG_P1P18C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,6.039038068,44.42012268
+Olearia_lepidophylla_AG123,AG_P1P10C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,8.767389194,41.2704835
+Olearia_lepidophylla_AG123,AG_P1P22C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,8.886013156,49.13237355
+Olearia_lirata_AG124,AG_P1P15C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,3.952334735,38.37832011
+Olearia_lirata_AG124,AG_P1P7C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,6.756173838,28.39225481
+Olearia_lirata_AG124,AG_P1P19C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,3.607246846,46.27572406
+Olearia_lirata_AG124,AG_P1P11C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,8.886013156,39.0830491
+Olearia_lirata_AG124,AG_P1P23C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,5.095438369,53.53498758
+Olearia_megalophylla_AG127,AG_P1P14C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,10.0075488,67.31771097
+Olearia_megalophylla_AG127,AG_P1P6C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,5.634638197,53.76471814
+Olearia_megalophylla_AG127,AG_P1P18C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,3.18667098,68.59066239
+Olearia_megalophylla_AG127,AG_P1P10C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,4.200366656,72.48720332
+Olearia_megalophylla_AG127,AG_P1P22C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,5.084654373,66.62408007
+Olearia_microdisca_AG128,AG_P1P16C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,3.100399008,31.49750161
+Olearia_microdisca_AG128,AG_P1P8C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,3.866062763,27.89616999
+Olearia_microdisca_AG128,AG_P1P20C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,9.225709048,35.17430027
+Olearia_microdisca_AG128,AG_P1P12C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,16.83381861,45.88396133
+Olearia_microdisca_AG128,AG_P1P24C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,11.8623962,43.39798819
+Olearia_muricata_AG134,AG_P1P14C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,20.39792947,43.39354895
+Olearia_muricata_AG134,AG_P1P6C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,11.19918042,25.22263906
+Olearia_muricata_AG134,AG_P1P18C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,6.40569395,46.92385277
+Olearia_muricata_AG134,AG_P1P10C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,8.740429203,44.48893087
+Olearia_muricata_AG134,AG_P1P22C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,6.454221935,44.87847398
+Olearia_myrsinoides_AG135,AG_P1P14C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,66.64509867,69.28318348
+Olearia_myrsinoides_AG135,AG_P1P6C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,24.14536827,56.81114504
+Olearia_myrsinoides_AG135,AG_P1P18C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,19.67000971,70.60607633
+Olearia_myrsinoides_AG135,AG_P1P10C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,31.50005392,69.86916286
+Olearia_myrsinoides_AG135,AG_P1P22C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,23.63312844,70.15105446
+Olearia_nummularifolia_AG175,AG_P1P15C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,5.650814192,69.91577486
+Olearia_nummularifolia_AG175,AG_P1P7C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,11.51730831,71.27529142
+Olearia_nummularifolia_AG175,AG_P1P19C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,7.985549445,70.93014068
+Olearia_nummularifolia_AG175,AG_P1P11C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,21.16898523,66.65737436
+Olearia_nummularifolia_AG175,AG_P1P23C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,7.052733743,74.18077252
+Olearia_obcordata_AG137,AG_P1P15C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,7.904669471,68.14340919
+Olearia_obcordata_AG137,AG_P1P7C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,10.76782055,65.21129266
+Olearia_obcordata_AG137,AG_P1P19C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,7.149789712,73.55262038
+Olearia_obcordata_AG137,AG_P1P11C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,19.47589777,67.8271135
+Olearia_obcordata_AG137,AG_P1P23C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,8.066429419,73.57703619
+Olearia_paucidentata_AG141,AG_P1P15C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,5.731694166,44.01282262
+Olearia_paucidentata_AG141,AG_P1P7C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,14.83338725,40.81990087
+Olearia_paucidentata_AG141,AG_P1P19C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,7.818397498,52.46957052
+Olearia_paucidentata_AG141,AG_P1P11C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,25.76835975,48.4442917
+Olearia_paucidentata_AG141,AG_P1P23C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,6.227758007,57.6656983
+Olearia_persoonioides_AG142,AG_P1P16C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,7.225277688,62.07497119
+Olearia_persoonioides_AG142,AG_P1P8C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,17.03871455,53.03779295
+Olearia_persoonioides_AG142,AG_P1P20C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,14.83877925,61.61329047
+Olearia_persoonioides_AG142,AG_P1P12C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,38.02976383,73.48270239
+Olearia_persoonioides_AG142,AG_P1P24C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,24.93260002,63.58542184
+Olearia_phlogopappa_subsp_continentalis_AG143,AG_P1P13C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,55.23563032,41.46359034
+Olearia_phlogopappa_subsp_continentalis_AG143,AG_P1P5C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,31.28437399,24.9696025
+Olearia_phlogopappa_subsp_continentalis_AG143,AG_P1P17C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,30.57802222,47.97817174
+Olearia_phlogopappa_subsp_continentalis_AG143,AG_P1P9C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,27.05704734,36.85233214
+Olearia_phlogopappa_subsp_continentalis_AG143,AG_P1P21C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,30.50253424,62.5222244
+Olearia_picridifolia_AG144,AG_P1P16C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,4.739566483,29.36555768
+Olearia_picridifolia_AG144,AG_P1P8C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,8.411517308,24.54676511
+Olearia_picridifolia_AG144,AG_P1P20C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,6.675293864,32.83482198
+Olearia_picridifolia_AG144,AG_P1P12C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,16.85538661,41.45471187
+Olearia_picridifolia_AG144,AG_P1P24C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,13.70106762,33.67383791
+Olearia_ramulosa_AG151,AG_P1P13C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,20.3170495,40.09186588
+Olearia_ramulosa_AG151,AG_P1P5C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,15.70689097,31.49417218
+Olearia_ramulosa_AG151,AG_P1P17C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,8.993853122,43.8219354
+Olearia_ramulosa_AG151,AG_P1P9C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,14.12703548,35.71366766
+Olearia_ramulosa_AG151,AG_P1P21C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,13.82508358,54.65922454
+Olearia_revoluta_AG152,AG_P1P16C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,7.478701607,35.85572326
+Olearia_revoluta_AG152,AG_P1P8C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,13.21578777,28.40446271
+Olearia_revoluta_AG152,AG_P1P20C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,10.99428448,36.40840836
+Olearia_revoluta_AG152,AG_P1P12C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,27.5153672,49.16677764
+Olearia_revoluta_AG152,AG_P1P24C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,28.07074302,45.21474624
+Olearia_rotundifolia_AG154,AG_P1P14C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,16.43481074,23.06738913
+Olearia_rotundifolia_AG154,AG_P1P6C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,7.289981667,11.14137693
+Olearia_rotundifolia_AG154,AG_P1P18C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,5.607678206,26.55995943
+Olearia_rotundifolia_AG154,AG_P1P10C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,5.96894209,25.87964624
+Olearia_rotundifolia_AG154,AG_P1P22C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,6.502749919,34.88907925
+Olearia_solandri_AG176,AG_P1P16C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,3.051871023,52.07780779
+Olearia_solandri_AG176,AG_P1P8C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,8.772781193,49.29440573
+Olearia_solandri_AG176,AG_P1P20C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,1.450447536,21.82773199
+Olearia_solandri_AG176,AG_P1P12C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,15.51277904,65.56754149
+Olearia_solandri_AG176,AG_P1P24C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,18.41367411,55.81675578
+Olearia_teretifolia_AG166,AG_P1P14C,Olearia,Astereae,mini,20ng,20,20M,exp3_4,26.69039146,50.00801319
+Olearia_teretifolia_AG166,AG_P1P6C,Olearia,Astereae,mini,2ng,2,2M,exp3_4,7.915453467,28.14032806
+Olearia_teretifolia_AG166,AG_P1P18C,Olearia,Astereae,mini,40ng,40,40M,exp3_4,5.699342176,51.60391916
+Olearia_teretifolia_AG166,AG_P1P10C,Olearia,Astereae,mini,5ng,5,5M,exp3_4,7.721341529,49.15789917
+Olearia_teretifolia_AG166,AG_P1P22C,Olearia,Astereae,standard,5ng,5,5S,exp3_4,9.214925051,50.99574359
+Trichanthodium_skirrophorum_LL156,AG_P1P13C,Tricanthodium,Astereae,mini,20ng,20,20M,exp3_4,20.69448938,39.82440181
+Trichanthodium_skirrophorum_LL156,AG_P1P5C,Tricanthodium,Astereae,mini,2ng,2,2M,exp3_4,8.772781193,22.17399253
+Trichanthodium_skirrophorum_LL156,AG_P1P17C,Tricanthodium,Astereae,mini,40ng,40,40M,exp3_4,10.0129408,44.74640666
+Trichanthodium_skirrophorum_LL156,AG_P1P9C,Tricanthodium,Astereae,mini,5ng,5,5M,exp3_4,15.52895503,40.96972515
+Trichanthodium_skirrophorum_LL156,AG_P1P21C,Tricanthodium,Astereae,standard,5ng,5,5S,exp3_4,11.00506848,54.94222595
+Anaphalioides_bellidioides_AG440,AG_P5P13C,Anaphalioides,Gnaphalieae,mini,5 ng,5,5M,exp5,93.64822603,73.48825144
+Anaphalioides_bellidioides_AG440,AG_P5P14/15C,Anaphalioides,Gnaphalieae,mini,5 ng,5,32rxn,exp5,99.85980804,66.25784296
+Anaphalioides_papuana_AG442,AG_P5P6C,Anaphalioides,Gnaphalieae,mini,5 ng,5,5M,exp5,0,0.042172759
+Anaphalioides_papuana_AG442,AG_P5P7C,Anaphalioides,Gnaphalieae,mini,5 ng,5,half_bait,exp5,0,0.15759294
+Anaphalioides_papuana_AG442,AG_P5P4/5C,Anaphalioides,Gnaphalieae,mini,5 ng,5,32rxn,exp5,0,0.066588566
+Anemocarpa_calcicola_AG577,AG_P5P8C,Anemocarpa,Gnaphalieae,mini,5 ng,5,5M,exp5,99.15345627,49.10018908
+Anemocarpa_calcicola_AG577, AG_P5P9/10C,Anemocarpa,Gnaphalieae,mini,5 ng,5,32rxn,exp5,97.99417664,51.90467752
+Anemocarpa_podolepidum_AG578,AG_P5P8C,Anemocarpa,Gnaphalieae,mini,5 ng,5,5M,exp5,55.33268629,39.9642378
+Anemocarpa_podolepidum_AG578,AG_P5P9/10C,Anemocarpa,Gnaphalieae,mini,5 ng,5,32rxn,exp5,46.18246522,43.79640978
+Brachyscome_billabongensis_AG006,AG_P5P3C,Brachyscome,Astereae,mini,5 ng,5,5M,exp5,24.91103203,61.70540465
+Brachyscome_billabongensis_AG006,AG_P5P4/5C,Brachyscome,Astereae,mini,5 ng,5,32rxn,exp5,5.122398361,62.41124345
+Brachyscome_chrysoglossa_AG009,AG_P5P8C,Brachyscome,Astereae,mini,5 ng,5,5M,exp5,71.33074517,58.35710958
+Brachyscome_chrysoglossa_AG009,AG_P5P9/10C,Brachyscome,Astereae,mini,5 ng,5,32rxn,exp5,67.32988245,60.07509459
+Brachyscome_ciliaris_var_ciliaris_AG011,AG_P5P13C,Brachyscome,Astereae,mini,5 ng,5,5M,exp5,98.63582444,67.45421753
+Brachyscome_ciliaris_var_ciliaris_AG011,AG_P5P14/15C,Brachyscome,Astereae,mini,5 ng,5,32rxn,exp5,99.6818721,57.33941433
+Brachyscome_cuneifolia_AG024,AG_P5P3C,Brachyscome,Astereae,mini,5 ng,5,5M,exp5,48.65200043,41.08514533
+Brachyscome_cuneifolia_AG024,AG_P5P4/5C,Brachyscome,Astereae,mini,5 ng,5,32rxn,exp5,10.29332471,41.67889338
+Brachyscome_dalbyensis_AG015,AG_P5P6C,Brachyscome,Astereae,mini,5 ng,5,5M,exp5,79.52658255,72.20864116
+Brachyscome_dalbyensis_AG015,AG_P5P7C,Brachyscome,Astereae,mini,5 ng,5,half_bait,exp5,46.74862504,68.51186592
+Brachyscome_dalbyensis_AG015,AG_P5P4/5C,Brachyscome,Astereae,mini,5 ng,5,32rxn,exp5,30.6157662,73.39502744
+Brachyscome_dissectifolia_AG020,AG_P5P13C,Brachyscome,Astereae,mini,5 ng,5,5M,exp5,88.55278766,57.27504538
+Brachyscome_dissectifolia_AG020,AG_P5P14/15C,Brachyscome,Astereae,mini,5 ng,5,32rxn,exp5,98.99169632,48.27782028
+Brachyscome_eriogona_AG023,AG_P5P8C,Brachyscome,Astereae,mini,5 ng,5,5M,exp5,69.83176965,32.601762
+Brachyscome_eriogona_AG023,AG_P5P9/10C,Brachyscome,Astereae,mini,5 ng,5,32rxn,exp5,65.08141917,34.87354191
+Brachyscome_iberidifolia_AG031,AG_P5P3C,Brachyscome,Astereae,mini,5 ng,5,5M,exp5,99.48776016,73.16751651
+Brachyscome_iberidifolia_AG031, AG_P5P4/5C,Brachyscome,Astereae,mini,5 ng,5,32rxn,exp5,66.69901866,74.02206977
+Brachyscome_kaputarensis_AG032,AG_P5P3C,Brachyscome,Astereae,mini,5 ng,5,5M,exp5,4.496926561,3.352734307
+Brachyscome_kaputarensis_AG032,AG_P5P4/5C,Brachyscome,Astereae,mini,5 ng,5,32rxn,exp5,0.43675186,3.651273045
+Brachyscome_linearifolia_AG033,AG_P5P3C,Brachyscome,Astereae,mini,5 ng,5,5M,exp5,61.31780438,60.81311786
+Brachyscome_linearifolia_AG033,AG_P5P4/5C,Brachyscome,Astereae,mini,5 ng,5,32rxn,exp5,14.52604335,60.46907694
+Brachyscome_lineariloba_AG034,AG_P5P8C,Brachyscome,Astereae,mini,5 ng,5,5M,exp5,99.71961609,54.22750867
+Brachyscome_lineariloba_AG034,AG_P5P9/10C,Brachyscome,Astereae,mini,5 ng,5,32rxn,exp5,99.73040009,57.10413473
+Brachyscome_perpusilla_AG045,AG_P5P11C,Brachyscome,Astereae,mini,5 ng,5,5M,exp5,98.98630432,66.64960569
+Brachyscome_perpusilla_AG045,AG_P5P12C,Brachyscome,Astereae,mini,5 ng,5,half_bait,exp5,99.53089615,62.72864895
+Brachyscome_perpusilla_AG045,AG_P5P9/10C,Brachyscome,Astereae,mini,5 ng,5,32rxn,exp5,99.45001618,63.63536326
+Brachyscome_readeri_AG051,AG_P5P13C,Brachyscome,Astereae,mini,5 ng,5,5M,exp5,89.20521945,38.30285307
+Brachyscome_readeri_AG051,AG_P5P14/15C,Brachyscome,Astereae,mini,5 ng,5,32rxn,exp5,98.88385636,30.31444475
+Brachyscome_sieberi_AG056,AG_P5P8C,Brachyscome,Astereae,mini,5 ng,5,5M,exp5,67.48085841,26.52999457
+Brachyscome_sieberi_AG056,AG_P5P9/10C,Brachyscome,Astereae,mini,5 ng,5,32rxn,exp5,52.41561523,28.67636602
+Brachyscome_trachycarpa_AG066,AG_P5P16C,Brachyscome,Astereae,mini,5 ng,5,5M,exp5,85.9376685,70.40631063
+Brachyscome_trachycarpa_AG066,AG_P5P17C,Brachyscome,Astereae,mini,5 ng,5,half_bait,exp5,98.24760056,66.88821472
+Brachyscome_trachycarpa_AG066,AG_P5P14/15C,Brachyscome,Astereae,mini,5 ng,5,32rxn,exp5,99.75736008,61.78087169
+Brachyscome_willisii_AG068,AG_P5P3C,Brachyscome,Astereae,mini,5 ng,5,5M,exp5,64.57996333,55.43831077
+Brachyscome_willisii_AG068,AG_P5P4/5C,Brachyscome,Astereae,mini,5 ng,5,32rxn,exp5,17.42693842,55.59923313
+Chrysocephalum_eremaeum_AG553,AG_P5P11C,Chrysocephalum,Gnaphalieae,mini,5 ng,5,5M,exp5,43.30313814,66.26672143
+Chrysocephalum_eremaeum_AG553,AG_P5P12C,Chrysocephalum,Gnaphalieae,mini,5 ng,5,half_bait,exp5,56.5512779,62.05499462
+Chrysocephalum_eremaeum_AG553,AG_P5P9/10C,Chrysocephalum,Gnaphalieae,mini,5 ng,5,32rxn,exp5,62.20748409,62.43787888
+Chrysocephalum_pterochaetum_AG554, AG_P5P16C,Chrysocephalum,Gnaphalieae,mini,5 ng,5,5M,exp5,28.56141486,67.40205649
+Chrysocephalum_pterochaetum_AG554,AG_P5P17C,Chrysocephalum,Gnaphalieae,mini,5 ng,5,half_bait,exp5,48.81915238,62.4290004
+Chrysocephalum_pterochaetum_AG554,AG_P5P14/15C,Chrysocephalum,Gnaphalieae,mini,5 ng,5,32rxn,exp5,89.15129947,53.62377234
+Craspedia_caneus_AG528,AG_P5P13C,Craspedia,Gnaphalieae,mini,5 ng,5,5M,exp5,98.55494446,78.2826282
+Craspedia_caneus_AG528,AG_P5P14/15C,Craspedia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,99.24512024,72.35957524
+Craspedia_costiniana_AG529,AG_P5P16C,Craspedia,Gnaphalieae,mini,5 ng,5,5M,exp5,40.54782702,61.25593183
+Craspedia_costiniana_AG529,AG_P5P17C,Craspedia,Gnaphalieae,mini,5 ng,5,half_bait,exp5,68.87738596,52.91682373
+Craspedia_costiniana_AG529,AG_P5P14/15C,Craspedia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,96.5652971,53.64041948
+Craspedia_crocata_AG543,AG_P5P16C,Craspedia,Gnaphalieae,mini,5 ng,5,5M,exp5,80.14666235,79.02065147
+Craspedia_crocata_AG543,AG_P5P17C,Craspedia,Gnaphalieae,mini,5 ng,5,half_bait,exp5,95.3089615,74.52481345
+Craspedia_crocata_AG543,AG_P5P14/15C,Craspedia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,99.35296021,73.13200261
+Craspedia_curantia_AG550,AG_P5P16C,Craspedia,Gnaphalieae,mini,5 ng,5,5M,exp5,98.39857651,78.52900589
+Craspedia_curantia_AG550,AG_P5P17C,Craspedia,Gnaphalieae,mini,5 ng,5,half_bait,exp5,99.63334412,73.95548121
+Craspedia_curantia_AG550,AG_P5P14/15C,Craspedia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,99.89216003,71.32412303
+Craspedia_cymnrica_AG542,AG_P5P8C,Craspedia,Gnaphalieae,mini,5 ng,5,5M,exp5,99.43923218,74.21628643
+Craspedia_cymnrica_AG542,AG_P5P9/10C,Craspedia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,96.85646501,77.02299449
+Craspedia_glabrata_AG551,AG_P5P16C,Craspedia,Gnaphalieae,mini,5 ng,5,5M,exp5,96.93195298,79.90960883
+Craspedia_glabrata_AG551,AG_P5P17C,Craspedia,Gnaphalieae,mini,5 ng,5,half_bait,exp5,99.72500809,76.77661679
+Craspedia_glabrata_AG551,AG_P5P14/15C,Craspedia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,99.88137604,74.04315615
+Craspedia_glanca_AG545,AG_P5P3C,Craspedia,Gnaphalieae,mini,5 ng,5,5M,exp5,98.62504044,80.43787812
+Craspedia_glanca_AG545,AG_P5P4/5C,Craspedia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,54.41604659,79.45125754
+Craspedia_gracilis_AG547,AG_P5P13C,Craspedia,Gnaphalieae,mini,5 ng,5,5M,exp5,96.16089723,79.26037031
+Craspedia_gracilis_AG547,AG_P5P14/15C,Craspedia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,99.50932816,73.93328502
+Craspedia_jameii_AG544,AG_P5P16C,Craspedia,Gnaphalieae,mini,5 ng,5,5M,exp5,84.19605306,79.44237906
+Craspedia_jameii_AG544,AG_P5P17C,Craspedia,Gnaphalieae,mini,5 ng,5,half_bait,exp5,97.77310471,77.05184953
+Craspedia_jameii_AG544,AG_P5P14/15C,Craspedia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,99.34756821,72.12651526
+Craspedia_lamicola_AG531,AG_P5P6C,Craspedia,Gnaphalieae,mini,5 ng,5,5M,exp5,47.62212876,74.16967443
+Craspedia_lamicola_AG531,AG_P5P7C,Craspedia,Gnaphalieae,mini,5 ng,5,half_bait,exp5,23.05618462,70.70041013
+Craspedia_lamicola_AG531,AG_P5P4/5C,Craspedia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,14.60692333,75.15296559
+Craspedia_leucantha_AG533,AG_P5P6C,Craspedia,Gnaphalieae,mini,5 ng,5,5M,exp5,95.86433732,76.53689796
+Craspedia_leucantha_AG533,AG_P5P7C,Craspedia,Gnaphalieae,mini,5 ng,5,half_bait,exp5,66.71519465,72.00887546
+Craspedia_leucantha_AG533,AG_P5P4/5C,Craspedia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,48.94316834,77.44694169
+Craspedia_macrocephala_AG548,AG_P5P16C,Craspedia,Gnaphalieae,mini,5 ng,5,5M,exp5,77.71487113,79.13496185
+Craspedia_macrocephala_AG548,AG_P5P17C,Craspedia,Gnaphalieae,mini,5 ng,5,half_bait,exp5,96.54372911,74.63357477
+Craspedia_macrocephala_AG548,AG_P5P14/15C,Craspedia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,99.989216,72.71138483
+Craspedia_masfreyi_AG549,AG_P5P11C,Craspedia,Gnaphalieae,mini,5 ng,5,5M,exp5,86.2557964,80.15154729
+Craspedia_masfreyi_AG549,AG_P5P12C,Craspedia,Gnaphalieae,mini,5 ng,5,half_bait,exp5,89.3885474,77.22165038
+Craspedia_masfreyi_AG549,AG_P5P9/10C,Craspedia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,95.0124016,78.81311711
+Craspedia_minor_AG527,AG_P5P6C,Craspedia,Gnaphalieae,mini,5 ng,5,5M,exp5,0,0
+Craspedia_minor_AG527,AG_P5P7C,Craspedia,Gnaphalieae,mini,5 ng,5,half_bait,exp5,0.361263884,0.130957513
+Craspedia_minor_AG527,AG_P5P4/5C,Craspedia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,0.150975952,0
+Craspedia_paleidicola_AG541,AG_P5P13C,Craspedia,Gnaphalieae,mini,5 ng,5,5M,exp5,97.4981128,79.27146841
+Craspedia_paleidicola_AG541,AG_P5P14/15C,Craspedia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,96.38736116,73.50378877
+Craspedia_prenicylana_AG546,AG_P5P16C,Craspedia,Gnaphalieae,mini,5 ng,5,5M,exp5,80.6265502,79.46457525
+Craspedia_prenicylana_AG546,AG_P5P17C,Craspedia,Gnaphalieae,mini,5 ng,5,half_bait,exp5,97.84320069,75.99309133
+Craspedia_prenicylana_AG546,AG_P5P14/15C,Craspedia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,99.90294403,73.0720729
+Craspedia_rosulata_AG552,AG_P5P11C,Craspedia,Gnaphalieae,mini,5 ng,5,5M,exp5,99.64952011,81.23694092
+Craspedia_rosulata_AG552,AG_P5P12C,Craspedia,Gnaphalieae,mini,5 ng,5,half_bait,exp5,99.40688019,78.55453151
+Craspedia_rosulata_AG552,AG_P5P9/10C,Craspedia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,99.88137604,79.93957369
+Craspedia_variabilis_AG535,AG_P5P11C,Craspedia,Gnaphalieae,mini,5 ng,5,5M,exp5,95.97756929,76.55576472
+Craspedia_variabilis_AG535,AG_P5P12C,Craspedia,Gnaphalieae,mini,5 ng,5,half_bait,exp5,96.42510514,72.70361616
+Craspedia_variabilis_AG535,AG_P5P9/10C,Craspedia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,99.22355225,74.68906525
+Crespedia_adenophora_AG418,AG_P5P13C,Craspedia,Gnaphalieae,mini,5 ng,5,5M,exp5,12.76825191,3.157407846
+Crespedia_adenophora_AG418,AG_P5P14/15C,Craspedia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,52.89550307,2.832233681
+Ewartia_catipes_AG424,AG_P5P11C,Ewartia,Gnaphalieae,mini,5 ng,5,5M,exp5,77.89280707,77.19057571
+Ewartia_catipes_AG424,AG_P5P12C,Ewartia,Gnaphalieae,mini,5 ng,5,half_bait,exp5,86.32589238,75.58357165
+Ewartia_catipes_AG424,AG_P5P9/10C,Ewartia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,95.91825731,77.14729315
+Ewartia_meridithae_AG425,AG_P5P3C,Ewartia,Gnaphalieae,mini,5 ng,5,5M,exp5,1.504367519,5.603427843
+Ewartia_meridithae_AG425,AG_P5P4/5C,Ewartia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,0,5.233861301
+Ewartia_nubigena_AG426,AG_P5P13C,Ewartia,Gnaphalieae,mini,5 ng,5,5M,exp5,90.60174701,78.71656369
+Ewartia_nubigena_AG426,AG_P5P14/15C,Ewartia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,99.61716812,72.19310382
+Gnephosis_drummondii_AG391,AG_P5P3C,Gnephosis,Gnaphalieae,mini,5 ng,5,5M,exp5,91.93357058,72.62703931
+Gnephosis_drummondii_AG391,AG_P5P4/5C,Gnephosis,Gnaphalieae,mini,5 ng,5,32rxn,exp5,44.57025774,72.53048589
+Gnephosis_macrocephala_AG392,AG_P5P8C,Gnephosis,Gnaphalieae,mini,5 ng,5,5M,exp5,99.62795212,55.59590371
+Gnephosis_macrocephala_AG392,AG_P5P9/10C,Gnephosis,Gnaphalieae,mini,5 ng,5,32rxn,exp5,98.42014451,58.29496025
+Helichrysum_intermedium_AG422,AG_P5P13C,Helichrysum,Gnaphalieae,mini,5 ng,5,5M,exp5,96.58147309,76.50804291
+Helichrysum_intermedium_AG422,AG_P5P14/15C,Helichrysum,Gnaphalieae,mini,5 ng,5,32rxn,exp5,99.73040009,67.68949713
+Helichrysum_pumilum_AG423,AG_P5P3C,Helichrysum,Gnaphalieae,mini,5 ng,5,5M,exp5,81.74808584,72.01553431
+Helichrysum_pumilum_AG423,AG_P5P4/5C,Helichrysum,Gnaphalieae,mini,5 ng,5,32rxn,exp5,26.2590316,72.57376846
+Leiocarpa_brevicompta_AG555,AG_P5P13C,Leiocarpa,Gnaphalieae,mini,5 ng,5,5M,exp5,91.93357058,66.59078579
+Leiocarpa_brevicompta_AG555,AG_P5P14/15C,Leiocarpa,Gnaphalieae,mini,5 ng,5,32rxn,exp5,94.19281786,57.60021955
+Leiocarpa_gatesii_AG556,AG_P5P16C,Leiocarpa,Gnaphalieae,mini,5 ng,5,5M,exp5,16.89852259,32.37536087
+Leiocarpa_gatesii_AG556,AG_P5P17C,Leiocarpa,Gnaphalieae,mini,5 ng,5,half_bait,exp5,35.22053273,27.51661516
+Leiocarpa_gatesii_AG556,AG_P5P14/15C,Leiocarpa,Gnaphalieae,mini,5 ng,5,32rxn,exp5,87.54987598,23.56458376
+Leiocarpa_leptolepis_AG557,AG_P5P11C,Leiocarpa,Gnaphalieae,mini,5 ng,5,5M,exp5,94.52712175,71.77359586
+Leiocarpa_leptolepis_AG557,AG_P5P12C,Leiocarpa,Gnaphalieae,mini,5 ng,5,half_bait,exp5,96.99126496,68.73826705
+Leiocarpa_leptolepis_AG557,AG_P5P9/10C,Leiocarpa,Gnaphalieae,mini,5 ng,5,32rxn,exp5,98.96473633,70.9789723
+Leiocarpa_pluriseta_AG558,AG_P5P6C,Leiocarpa,Gnaphalieae,mini,5 ng,5,5M,exp5,73.66548043,45.40785308
+Leiocarpa_pluriseta_AG558,AG_P5P7C,Leiocarpa,Gnaphalieae,mini,5 ng,5,half_bait,exp5,40.35910709,40.20728606
+Leiocarpa_pluriseta_AG558,AG_P5P4/5C,Leiocarpa,Gnaphalieae,mini,5 ng,5,32rxn,exp5,33.77547719,46.74961269
+Leiocarpa_semicalva_AG559,AG_P5P16C,Leiocarpa,Gnaphalieae,mini,5 ng,5,5M,exp5,26.08109565,66.55971113
+Leiocarpa_semicalva_AG559,AG_P5P17C,Leiocarpa,Gnaphalieae,mini,5 ng,5,half_bait,exp5,44.13350588,59.85535232
+Leiocarpa_semicalva_AG559,AG_P5P14/15C,Leiocarpa,Gnaphalieae,mini,5 ng,5,32rxn,exp5,92.93648226,57.03865597
+Leiocarpa_serpens_AG560,AG_P5P8C,Leiocarpa,Gnaphalieae,mini,5 ng,5,5M,exp5,85.04798878,38.35945335
+Leiocarpa_serpens_AG560,AG_P5P9/10C,Leiocarpa,Gnaphalieae,mini,5 ng,5,32rxn,exp5,75.27768791,39.5180944
+Leiocarpa_tomentosa_AG561,AG_P5P11C,Leiocarpa,Gnaphalieae,mini,5 ng,5,5M,exp5,85.90531651,59.041862
+Leiocarpa_tomentosa_AG561,AG_P5P12C,Leiocarpa,Gnaphalieae,mini,5 ng,5,half_bait,exp5,86.49304432,54.29298743
+Leiocarpa_tomentosa_AG561,AG_P5P9/10C,Leiocarpa,Gnaphalieae,mini,5 ng,5,32rxn,exp5,93.52421007,56.94987122
+Leptorhynchos_baileyi_AG562,AG_P5P11C,Leptorhynchos,Gnaphalieae,mini,5 ng,5,5M,exp5,97.36331284,61.34360678
+Leptorhynchos_baileyi_AG562,AG_P5P12C,Leptorhynchos,Gnaphalieae,mini,5 ng,5,half_bait,exp5,97.71918473,56.19853023
+Leptorhynchos_baileyi_AG562,AG_P5P9/10C,Leptorhynchos,Gnaphalieae,mini,5 ng,5,32rxn,exp5,99.41227219,59.63117082
+Leptorhynchos_elongatus_AG563,AG_P5P8C,Leptorhynchos,Gnaphalieae,mini,5 ng,5,5M,exp5,97.8270247,40.29274139
+Leptorhynchos_elongatus_AG563,AG_P5P9/10C,Leptorhynchos,Gnaphalieae,mini,5 ng,5,32rxn,exp5,98.4363205,43.9040613
+Leptorhynchos_orientalis_AG564,AG_P5P13C,Leptorhynchos,Gnaphalieae,mini,5 ng,5,5M,exp5,99.54168015,39.88322171
+Leptorhynchos_orientalis_AG564,AG_P5P14/15C,Leptorhynchos,Gnaphalieae,mini,5 ng,5,32rxn,exp5,100.037744,31.18897458
+Leptorhynchos_scaber_AG565,AG_P5P13C,Leptorhynchos,Gnaphalieae,mini,5 ng,5,5M,exp5,99.95147202,48.88710566
+Leptorhynchos_scaber_AG565,AG_P5P14/15C,Leptorhynchos,Gnaphalieae,mini,5 ng,5,32rxn,exp5,99.66569611,32.82261407
+Leptorhynchos_tenuifolius_AG566,AG_P5P8C,Leptorhynchos,Gnaphalieae,mini,5 ng,5,5M,exp5,99.47697617,40.70115126
+Leptorhynchos_tenuifolius_AG566,AG_P5P9/10C,Leptorhynchos,Gnaphalieae,mini,5 ng,5,32rxn,exp5,98.28534455,43.83525311
+Leptorhynchos_tetrachaetus_AG567,AG_P5P13C,Leptorhynchos,Gnaphalieae,mini,5 ng,5,5M,exp5,71.32535318,53.54386606
+Leptorhynchos_tetrachaetus_AG567,AG_P5P14/15C,Leptorhynchos,Gnaphalieae,mini,5 ng,5,32rxn,exp5,81.45152594,43.52894571
+Leptorhynchos_waitzia_AG568,AG_P5P6C,Leptorhynchos,Gnaphalieae,mini,5 ng,5,5M,exp5,99.65491211,35.8013426
+Leptorhynchos_waitzia_AG568,AG_P5P7C,Leptorhynchos,Gnaphalieae,mini,5 ng,5,half_bait,exp5,82.84805349,30.73728214
+Leptorhynchos_waitzia_AG568,AG_P5P4/5C,Leptorhynchos,Gnaphalieae,mini,5 ng,5,32rxn,exp5,74.3610482,36.45169093
+Leucochrysum_graminifolium_AG569,AG_P5P16C,Leucochrysum,Gnaphalieae,mini,5 ng,5,5M,exp5,49.3853122,66.0625165
+Leucochrysum_graminifolium_AG569,AG_P5P17C,Leucochrysum,Gnaphalieae,mini,5 ng,5,half_bait,exp5,71.09888925,61.44570924
+Leucochrysum_graminifolium_AG569,AG_P5P14/15C,Leucochrysum,Gnaphalieae,mini,5 ng,5,32rxn,exp5,96.01531328,55.4305421
+Leucochrysum_molle_AG570,AG_P5P11C,Leucochrysum,Gnaphalieae,mini,5 ng,5,5M,exp5,98.66817643,55.52376609
+Leucochrysum_molle_AG570,AG_P5P12C,Leucochrysum,Gnaphalieae,mini,5 ng,5,half_bait,exp5,98.16132859,49.12127545
+Leucochrysum_molle_AG570,AG_P5P9/10C,Leucochrysum,Gnaphalieae,mini,5 ng,5,32rxn,exp5,99.12110428,53.59491729
+Leucogenes_grandiceps_AG420_capture,AG_P5P6C,Leucogenes,Gnaphalieae,mini,5 ng,5,5M,exp5,65.97109889,72.96775081
+Leucogenes_grandiceps_AG420_capture,AG_P5P7C,Leucogenes,Gnaphalieae,mini,5 ng,5,half_bait,exp5,33.36568532,68.18891138
+Leucogenes_grandiceps_AG420_capture,AG_P5P4/5C,Leucogenes,Gnaphalieae,mini,5 ng,5,32rxn,exp5,19.83716165,74.23293357
+Myriocephalus_gascoynensis_AG404,AG_P5P6C,Myriocephalus,Gnaphalieae,mini,5 ng,5,5M,exp5,99.73040009,69.40193309
+Myriocephalus_gascoynensis_AG404,AG_P5P7C,Myriocephalus,Gnaphalieae,mini,5 ng,5,half_bait,exp5,94.00948992,64.96491497
+Myriocephalus_gascoynensis_AG404,AG_P5P4/5C,Myriocephalus,Gnaphalieae,mini,5 ng,5,32rxn,exp5,86.18570042,70.45181282
+Pterygopappus_lawrencei_AG419,AG_P5P3C,Pterygopappus,Gnaphalieae,mini,5 ng,5,5M,exp5,7.128221719,3.698994851
+Pterygopappus_lawrencei_AG419,AG_P5P4/5C,Pterygopappus,Gnaphalieae,mini,5 ng,5,32rxn,exp5,0,3.73894799
+Pycnnosorus_globosus_AG536,AG_P5P8C,Pycnosorus,Gnaphalieae,mini,5 ng,5,5M,exp5,64.77946727,47.12916752
+Pycnnosorus_globosus_AG536,AG_P5P9/10C,Pycnosorus,Gnaphalieae,mini,5 ng,5,32rxn,exp5,59.95902081,47.13027733
+Pycnnosorus_melleus_AG537,AG_P5P11C,Pycnosorus,Gnaphalieae,mini,5 ng,5,5M,exp5,0,0.057710091
+Pycnnosorus_melleus_AG537,AG_P5P12C,Pycnosorus,Gnaphalieae,mini,5 ng,5,half_bait,exp5,0,0.053270853
+Pycnnosorus_melleus_AG537,AG_P5P9/10C,Pycnosorus,Gnaphalieae,mini,5 ng,5,32rxn,exp5,0,0.126518276
+Pycnosorus_chrysanthum_AG540,AG_P5P16C,Pycnosorus,Gnaphalieae,mini,5 ng,5,5M,exp5,85.77051655,63.12707054
+Pycnosorus_chrysanthum_AG540,AG_P5P17C,Pycnosorus,Gnaphalieae,mini,5 ng,5,half_bait,exp5,95.47072145,56.83667065
+Pycnosorus_chrysanthum_AG540,AG_P5P14/15C,Pycnosorus,Gnaphalieae,mini,5 ng,5,32rxn,exp5,98.84611237,47.27122312
+Pycnosorus_pleiocephalus_AG539,AG_P5P13C,Pycnosorus,Gnaphalieae,mini,5 ng,5,5M,exp5,99.93529602,67.9680593
+Pycnosorus_pleiocephalus_AG539,AG_P5P14/15C,Pycnosorus,Gnaphalieae,mini,5 ng,5,32rxn,exp5,99.89755203,58.05080218
+Pycnosorus_thomponianus_AG538,AG_P5P11C,Pycnosorus,Gnaphalieae,mini,5 ng,5,5M,exp5,6.691469859,3.22843565
+Pycnosorus_thomponianus_AG538,AG_P5P12C,Pycnosorus,Gnaphalieae,mini,5 ng,5,half_bait,exp5,6.545885905,2.984277574
+Pycnosorus_thomponianus_AG538,AG_P5P9/10C,Pycnosorus,Gnaphalieae,mini,5 ng,5,32rxn,exp5,13.65253963,3.311671358
+Raoulia_australis_AG408,AG_P5P11C,Raoulia,Gnaphalieae,mini,5 ng,5,5M,exp5,70.39253747,54.50607084
+Raoulia_australis_AG408,AG_P5P12C,Raoulia,Gnaphalieae,mini,5 ng,5,half_bait,exp5,69.08767389,46.86725249
+Raoulia_australis_AG408,AG_P5P9/10C,Raoulia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,89.54491535,52.53061004
+Raoulia_glabra_AG410,AG_P5P3C,Raoulia,Gnaphalieae,mini,5 ng,5,5M,exp5,90.77968295,77.42918474
+Raoulia_glabra_AG410,AG_P5P4/5C,Raoulia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,34.70829289,77.78543357
+Raoulia_grandiflora_AG411,AG_P5P3C,Raoulia,Gnaphalieae,mini,5 ng,5,5M,exp5,65.35101909,71.23089904
+Raoulia_grandiflora_AG411,AG_P5P4/5C,Raoulia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,14.29957942,71.6026852
+Raoulia_hectori_AG412,AG_P5P16C,Raoulia,Gnaphalieae,mini,5 ng,5,5M,exp5,67.32449046,64.69301165
+Raoulia_hectori_AG412,AG_P5P17C,Raoulia,Gnaphalieae,mini,5 ng,5,half_bait,exp5,90.40763507,60.84974158
+Raoulia_hectori_AG412,AG_P5P14/15C,Raoulia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,99.71961609,60.4879437
+Raoulia_hookeri_AG413,AG_P5P16C,Raoulia,Gnaphalieae,mini,5 ng,5,5M,exp5,1.676911463,16.04007578
+Raoulia_hookeri_AG413,AG_P5P17C,Raoulia,Gnaphalieae,mini,5 ng,5,half_bait,exp5,3.127358999,13.56853017
+Raoulia_hookeri_AG413,AG_P5P14/15C,Raoulia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,10.15313275,14.52296628
+Raoulia_mammillaris_AG414,AG_P5P6C,Raoulia,Gnaphalieae,mini,5 ng,5,5M,exp5,2.275423272,8.577717132
+Raoulia_mammillaris_AG414,AG_P5P7C,Raoulia,Gnaphalieae,mini,5 ng,5,half_bait,exp5,1.84406341,7.966212133
+Raoulia_mammillaris_AG414,AG_P5P4/5C,Raoulia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,0.733311765,8.417904573
+Raoulia_monroi_AG415,AG_P5P13C,Raoulia,Gnaphalieae,mini,5 ng,5,5M,exp5,98.85150437,72.43060304
+Raoulia_monroi_AG415,AG_P5P14/15C,Raoulia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,99.54168015,64.99931906
+Raoulia_subsericea_AG416,AG_P5P11C,Raoulia,Gnaphalieae,mini,5 ng,5,5M,exp5,94.59182573,77.21721114
+Raoulia_subsericea_AG416,AG_P5P12C,Raoulia,Gnaphalieae,mini,5 ng,5,half_bait,exp5,94.10115389,76.09408399
+Raoulia_subsericea_AG416,AG_P5P9/10C,Raoulia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,98.4363205,77.34816865
+Raoulia_tenuicaulis_AG417,AG_P5P11C,Raoulia,Gnaphalieae,mini,5 ng,5,5M,exp5,99.19659226,64.56427376
+Raoulia_tenuicaulis_AG417,AG_P5P12C,Raoulia,Gnaphalieae,mini,5 ng,5,half_bait,exp5,99.80049606,59.64337872
+Raoulia_tenuicaulis_AG417,AG_P5P9/10C,Raoulia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,99.98382401,64.61532499
+Rhodanthe_battii_AG393,AG_P5P3C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp5,99.29904022,59.40809912
+Rhodanthe_battii_AG393,AG_P5P4/5C,Rhodanthe,Gnaphalieae,mini,5 ng,5,32rxn,exp5,88.52582767,62.89401056
+Rhodanthe_cremea_AG394,AG_P5P11C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp5,99.45540817,67.85929797
+Rhodanthe_cremea_AG394,AG_P5P12C,Rhodanthe,Gnaphalieae,mini,5 ng,5,half_bait,exp5,100.075488,64.2402094
+Rhodanthe_cremea_AG394,AG_P5P9/10C,Rhodanthe,Gnaphalieae,mini,5 ng,5,32rxn,exp5,99.6764801,63.63314364
+Rhodanthe_forrestii_AG395,AG_P5P8C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp5,98.65739243,70.79696355
+Rhodanthe_forrestii_AG395,AG_P5P9/10C,Rhodanthe,Gnaphalieae,mini,5 ng,5,32rxn,exp5,98.27456055,73.61033047
+Rhodanthe_haigii_AG396,AG_P5P6C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp5,98.19368058,75.90430658
+Rhodanthe_haigii_AG396,AG_P5P7C,Rhodanthe,Gnaphalieae,mini,5 ng,5,half_bait,exp5,95.3197455,72.26857086
+Rhodanthe_haigii_AG396,AG_P5P4/5C,Rhodanthe,Gnaphalieae,mini,5 ng,5,32rxn,exp5,92.25169848,76.78771489
+Rhodanthe_nullarborensis_AG397,AG_P5P8C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp5,98.56033646,59.47246807
+Rhodanthe_nullarborensis_AG397,AG_P5P9/10C,Rhodanthe,Gnaphalieae,mini,5 ng,5,32rxn,exp5,98.41475251,62.39015707
+Rhodanthe_oppositifolia_AG398,AG_P5P8C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp5,99.52011215,60.35032733
+Rhodanthe_oppositifolia_AG398,AG_P5P9/10C,Rhodanthe,Gnaphalieae,mini,5 ng,5,32rxn,exp5,98.61425644,62.22035623
+Rhodanthe_polakii_AG399,AG_P5P6C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp5,89.41550739,67.35988373
+Rhodanthe_polakii_AG399,AG_P5P7C,Rhodanthe,Gnaphalieae,mini,5 ng,5,half_bait,exp5,64.66623531,62.39459631
+Rhodanthe_polakii_AG399,AG_P5P4/5C,Rhodanthe,Gnaphalieae,mini,5 ng,5,32rxn,exp5,58.84826917,67.81601541
+Rhodanthe_polycephala_AG400,AG_P5P8C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp5,99.0671843,58.0064098
+Rhodanthe_polycephala_AG400,AG_P5P9/10C,Rhodanthe,Gnaphalieae,mini,5 ng,5,32rxn,exp5,99.43384018,59.88309756
+Rhodanthe_propinqua_AG401,AG_P5P6C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp5,99.47158417,69.61945574
+Rhodanthe_propinqua_AG401,AG_P5P7C,Rhodanthe,Gnaphalieae,mini,5 ng,5,half_bait,exp5,91.45907473,66.48202446
+Rhodanthe_propinqua_AG401,AG_P5P4/5C,Rhodanthe,Gnaphalieae,mini,5 ng,5,32rxn,exp5,79.79079047,70.3907733
+Stuartina_hamata_AG406,AG_P5P6C,Stuartina,Gnaphalieae,mini,5 ng,5,5M,exp5,70.89399331,62.27029765
+Stuartina_hamata_AG406,AG_P5P7C,Stuartina,Gnaphalieae,mini,5 ng,5,half_bait,exp5,35.82443654,57.05086388
+Stuartina_hamata_AG406,AG_P5P4/5C,Stuartina,Gnaphalieae,mini,5 ng,5,32rxn,exp5,31.60789389,64.19359741
+Stuartina_muelleri_AG407,AG_P5P6C,Stuartina,Gnaphalieae,mini,5 ng,5,5M,exp5,87.39890003,67.74054837
+Stuartina_muelleri_AG407,AG_P5P7C,Stuartina,Gnaphalieae,mini,5 ng,5,half_bait,exp5,55.18710234,63.0516035
+Stuartina_muelleri_AG407,AG_P5P4/5C,Stuartina,Gnaphalieae,mini,5 ng,5,32rxn,exp5,42.91491427,69.92576315
+Waitzia_acuminata_AG571,AG_P5P16C,Waitzia,Gnaphalieae,mini,5 ng,5,5M,exp5,67.13037852,42.06177763
+Waitzia_acuminata_AG571,AG_P5P17C,Waitzia,Gnaphalieae,mini,5 ng,5,half_bait,exp5,86.50382832,36.0133162
+Waitzia_acuminata_AG571,AG_P5P14/15C,Waitzia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,99.3799202,32.29101535
+Waitzia_corymbosa_AG572,AG_P5P6C,Waitzia,Gnaphalieae,mini,5 ng,5,5M,exp5,93.79920198,42.8819268
+Waitzia_corymbosa_AG572,AG_P5P7C,Waitzia,Gnaphalieae,mini,5 ng,5,half_bait,exp5,65.86865092,41.25938541
+Waitzia_corymbosa_AG572,AG_P5P4/5C,Waitzia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,57.12822172,46.53763909
+Waitzia_nitida_AG573,AG_P5P3C,Waitzia,Gnaphalieae,mini,5 ng,5,5M,exp5,90.42381106,35.63820061
+Waitzia_nitida_AG573,AG_P5P4/5C,Waitzia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,40.3105791,38.23071546
+Waitzia_podolepis_AG575,AG_P5P3C,Waitzia,Gnaphalieae,mini,5 ng,5,5M,exp5,95.74032136,36.46056941
+Waitzia_podolepis_AG575,AG_P5P4/5C,Waitzia,Gnaphalieae,mini,5 ng,5,32rxn,exp5,69.81559366,36.10099115
+Angianthus_tomentosus_AG330,AG_P2P15C,Angianthus,Gnaphalieae,mini,5 ng,5,5M,exp2,99.62795212,45.50773593
+Angianthus_tomentosus_AG330,AG_P2P16C,Angianthus,Gnaphalieae,mini,5 ng,5,5M,exp2,99.6764801,45.26135824
+Angianthus_uniflorus_AG331,AG_P2P18C,Angianthus,Gnaphalieae,mini,5 ng,5,5M,exp2,96.17707322,36.25747428
+Angianthus_uniflorus_AG331,AG_P2P17C,Angianthus,Gnaphalieae,mini,5 ng,5,5M,exp2,99.53628815,30.44207283
+Bellis_perennis_AG279,AG_P2P1C,Bellis,Astereae,mini,5 ng,5,5M,exp2,89.34541141,41.68444242
+Bellis_perennis_AG279,AG_P2P2C,Bellis,Astereae,mini,5 ng,5,5M,exp2,93.33009813,21.65349191
+Brachyscome_ciliocarpa_AG013,AG_P2P11C,Brachyscome,Astereae,mini,5 ng,5,5M,exp2,98.88385636,22.05302331
+Brachyscome_ciliocarpa_AG013,AG_P2P10C,Brachyscome,Astereae,mini,5 ng,5,5M,exp2,98.67356842,17.52833023
+Brachyscome_dentata_AG314,AG_P2P3C,Brachyscome,Astereae,mini,5 ng,5,5M,exp2,98.56033646,50.01356224
+Brachyscome_dentata_AG314,AG_P2P4C,Brachyscome,Astereae,mini,5 ng,5,5M,exp2,98.61425644,48.3266519
+Brachyscome_dichromosomatica_AG019,AG_P2P11C,Brachyscome,Astereae,mini,5 ng,5,5M,exp2,99.60099213,46.84727592
+Brachyscome_dichromosomatica_AG019,AG_P2P10C,Brachyscome,Astereae,mini,5 ng,5,5M,exp2,99.76275208,36.34958846
+Brachyscome_formosa_AG198,AG_P2P15C,Brachyscome,Astereae,mini,5 ng,5,5M,exp2,28.36191092,12.58523901
+Brachyscome_formosa_AG198,AG_P2P16C,Brachyscome,Astereae,mini,5 ng,5,5M,exp2,33.60832525,10.92385428
+Brachyscome_microcarpa_AG036,AG_P2P8C,Brachyscome,Astereae,mini,5 ng,5,5M,exp2,83.22549337,8.6798196
+Brachyscome_microcarpa_AG036,AG_P2P9C,Brachyscome,Astereae,mini,5 ng,5,5M,exp2,89.64197131,8.033910508
+Brachyscome_nivalis_AG199,AG_P2P1C,Brachyscome,Astereae,mini,5 ng,5,5M,exp2,95.68100938,22.88870981
+Brachyscome_nivalis_AG199,AG_P2P2C,Brachyscome,Astereae,mini,5 ng,5,5M,exp2,96.63000108,7.888525472
+Brachyscome_sinclairii_AG069,AG_P2P11C,Brachyscome,Astereae,mini,5 ng,5,5M,exp2,94.24673784,24.58671825
+Brachyscome_sinclairii_AG069,AG_P2P10C,Brachyscome,Astereae,mini,5 ng,5,5M,exp2,91.93357058,18.62260234
+Brachyscome_stolonifera_AG315,AG_P2P15C,Brachyscome,Astereae,mini,5 ng,5,5M,exp2,99.78971207,33.93797256
+Brachyscome_stolonifera_AG315,AG_P2P16C,Brachyscome,Astereae,mini,5 ng,5,5M,exp2,99.83824005,36.3662356
+Calocephalus_citreus_AG332,AG_P2P18C,Calocephalus,Gnaphalieae,mini,5 ng,5,5M,exp2,22.66796075,52.20987512
+Calocephalus_citreus_AG332,AG_P2P17C,Calocephalus,Gnaphalieae,mini,5 ng,5,5M,exp2,24.3826162,50.45304678
+Calocephalus_francisii_AG333,AG_P2P18C,Calocephalus,Gnaphalieae,mini,5 ng,5,5M,exp2,99.95147202,50.48190182
+Calocephalus_francisii_AG333,AG_P2P17C,Calocephalus,Gnaphalieae,mini,5 ng,5,5M,exp2,99.85441605,47.34558036
+Calocephalus_knappii_AG334,AG_P2P18C,Calocephalus,Gnaphalieae,mini,5 ng,5,5M,exp2,83.22010137,46.65749851
+Calocephalus_knappii_AG334,AG_P2P17C,Calocephalus,Gnaphalieae,mini,5 ng,5,5M,exp2,97.06675294,47.35778826
+Calocephalus_lacteus_AG335,AG_P2P18C,Calocephalus,Gnaphalieae,mini,5 ng,5,5M,exp2,99.6926561,62.81299447
+Calocephalus_lacteus_AG335,AG_P2P17C,Calocephalus,Gnaphalieae,mini,5 ng,5,5M,exp2,99.27747223,59.58566863
+Calocephalus_multiflorus_AG336,AG_P2P18C,Calocephalus,Gnaphalieae,mini,5 ng,5,5M,exp2,99.84363205,61.30920268
+Calocephalus_multiflorus_AG336,AG_P2P17C,Calocephalus,Gnaphalieae,mini,5 ng,5,5M,exp2,99.81128006,60.55009303
+Calotis_anthemoides_AG204,AG_P2P15C,Calotis,Astereae,mini,5 ng,5,5M,exp2,99.23972824,52.33195415
+Calotis_anthemoides_AG204,AG_P2P16C,Calotis,Astereae,mini,5 ng,5,5M,exp2,98.91081635,55.79455959
+Calotis_cuneata_AG207,AG_P2P15C,Calotis,Astereae,mini,5 ng,5,5M,exp2,99.6872641,53.6903609
+Calotis_cuneata_AG207,AG_P2P16C,Calotis,Astereae,mini,5 ng,5,5M,exp2,99.33678421,57.3715988
+Calotis_cuneifolia_AG208,AG_P2P11C,Calotis,Astereae,mini,5 ng,5,5M,exp2,99.51472016,60.64886607
+Calotis_cuneifolia_AG208,AG_P2P10C,Calotis,Astereae,mini,5 ng,5,5M,exp2,99.48236817,55.15641917
+Calotis_cymbacantha_AG209,AG_P2P8C,Calotis,Astereae,mini,5 ng,5,5M,exp2,97.8216327,44.90067017
+Calotis_cymbacantha_AG209,AG_P2P9C,Calotis,Astereae,mini,5 ng,5,5M,exp2,99.12649628,43.10832793
+Calotis_dentex_AG210,AG_P2P1C,Calotis,Astereae,mini,5 ng,5,5M,exp2,96.16628923,39.41044289
+Calotis_dentex_AG210,AG_P2P2C,Calotis,Astereae,mini,5 ng,5,5M,exp2,98.99169632,15.21770699
+Calotis_kempei_AG215,AG_P2P1C,Calotis,Astereae,mini,5 ng,5,5M,exp2,98.82454438,28.85615515
+Calotis_kempei_AG215,AG_P2P2C,Calotis,Astereae,mini,5 ng,5,5M,exp2,99.26129624,14.4075461
+Calotis_lappulacea_AG216,AG_P2P11C,Calotis,Astereae,mini,5 ng,5,5M,exp2,99.21276825,61.66656132
+Calotis_lappulacea_AG216,AG_P2P10C,Calotis,Astereae,mini,5 ng,5,5M,exp2,99.21276825,54.93334747
+Calotis_latiuscula_AG217,AG_P2P1C,Calotis,Astereae,mini,5 ng,5,5M,exp2,99.0671843,46.74184402
+Calotis_latiuscula_AG217,AG_P2P2C,Calotis,Astereae,mini,5 ng,5,5M,exp2,97.67604874,34.61606612
+Calotis_moorei_AG218,AG_P2P8C,Calotis,Astereae,mini,5 ng,5,5M,exp2,98.78680039,52.12330998
+Calotis_moorei_AG218,AG_P2P9C,Calotis,Astereae,mini,5 ng,5,5M,exp2,98.81915238,49.55854037
+Calotis_plumulifera_AG220,AG_P2P11C,Calotis,Astereae,mini,5 ng,5,5M,exp2,99.86520004,69.39638404
+Calotis_plumulifera_AG220,AG_P2P10C,Calotis,Astereae,mini,5 ng,5,5M,exp2,99.39609619,64.22689169
+Camptacra_gracilis_AG301,AG_P2P3C,Camptacra,Astereae,mini,5 ng,5,5M,exp2,82.10934973,43.87631606
+Camptacra_gracilis_AG301,AG_P2P4C,Camptacra,Astereae,mini,5 ng,5,5M,exp2,83.4519573,42.63000006
+Celmisia_latifolia_AG183,AG_P2P8C,Celmisia,Astereae,mini,5 ng,5,5M,exp2,74.32869621,36.61039368
+Celmisia_latifolia_AG183,AG_P2P9C,Celmisia,Astereae,mini,5 ng,5,5M,exp2,74.22624825,33.88470171
+Chrysocephalum_baxteri_LL195,AG_P2P8C,Chrysocephalum,Gnaphalieae,mini,5 ng,5,5M,exp2,98.50641648,22.8054741
+Chrysocephalum_baxteri_LL195,AG_P2P9C,Chrysocephalum,Gnaphalieae,mini,5 ng,5,5M,exp2,98.14515259,23.87644021
+Chrysocephalum_vitellinum_LL194,AG_P2P8C,Chrysocephalum,Gnaphalieae,mini,5 ng,5,5M,exp2,99.56864014,35.81577012
+Chrysocephalum_vitellinum_LL194,AG_P2P9C,Chrysocephalum,Gnaphalieae,mini,5 ng,5,5M,exp2,99.39070419,36.76798662
+Conyza_Erigeron_primulifolius_AG290,AG_P2P18C,Conyza,Astereae,mini,5 ng,5,5M,exp2,98.84611237,54.50052179
+Conyza_Erigeron_primulifolius_AG290,AG_P2P17C,Conyza,Astereae,mini,5 ng,5,5M,exp2,0,0.116529991
+Coronidium_boormannii_LL162,AG_P2P8C,Coronidium,Gnaphalieae,mini,5 ng,5,5M,exp2,99.44462418,18.38066388
+Coronidium_boormannii_LL162,AG_P2P9C,Coronidium,Gnaphalieae,mini,5 ng,5,5M,exp2,99.15884827,12.54639568
+Coronidium_cymosum_LL166,AG_P2P11C,Coronidium,Gnaphalieae,mini,5 ng,5,5M,exp2,99.60638413,36.05326934
+Coronidium_cymosum_LL166,AG_P2P10C,Coronidium,Gnaphalieae,mini,5 ng,5,5M,exp2,99.60638413,27.76743209
+Coronidium_glutinosum_LL164,AG_P2P8C,Coronidium,Gnaphalieae,mini,5 ng,5,5M,exp2,99.58481613,29.57420186
+Coronidium_glutinosum_LL164,AG_P2P9C,Coronidium,Gnaphalieae,mini,5 ng,5,5M,exp2,99.41766419,24.39916045
+Coronidium_rupicola_LL160,AG_P2P11C,Coronidium,Gnaphalieae,mini,5 ng,5,5M,exp2,98.97552033,31.19896287
+Coronidium_rupicola_LL160,AG_P2P10C,Coronidium,Gnaphalieae,mini,5 ng,5,5M,exp2,99.32060822,25.57555846
+Dichromochlamys_dentatifolia_AG303,AG_P2P18C,Dichromochlamys,Astereae,mini,5 ng,5,5M,exp2,99.77353607,67.45865677
+Dichromochlamys_dentatifolia_AG303,AG_P2P17C,Dichromochlamys,Astereae,mini,5 ng,5,5M,exp2,99.76275208,61.50674876
+Elachanthus_pusillus_AG304,AG_P2P18C,Elachanthus,Astereae,mini,5 ng,5,5M,exp2,98.91081635,66.31777267
+Elachanthus_pusillus_AG304,AG_P2P17C,Elachanthus,Astereae,mini,5 ng,5,5M,exp2,98.80836838,62.32134889
+Erigeron_bilbaoanus_AG281,AG_P2P11C,Erigeron,Astereae,mini,5 ng,5,5M,exp2,71.875337,53.6426391
+Erigeron_bilbaoanus_AG281,AG_P2P10C,Erigeron,Astereae,mini,5 ng,5,5M,exp2,68.41367411,51.81367315
+Erigeron_nitidus_AG287,AG_P2P18C,Erigeron,Astereae,mini,5 ng,5,5M,exp2,99.77353607,30.96035384
+Erigeron_nitidus_AG287,AG_P2P17C,Erigeron,Astereae,mini,5 ng,5,5M,exp2,99.50393616,13.50527103
+Erigeron_paludicola_AG288,AG_P2P3C,Erigeron,Astereae,mini,5 ng,5,5M,exp2,99.50932816,33.35088337
+Erigeron_paludicola_AG288,AG_P2P4C,Erigeron,Astereae,mini,5 ng,5,5M,exp2,95.43836946,31.67396131
+Erigeron_setosus_AG291,AG_P2P18C,Erigeron,Astereae,mini,5 ng,5,5M,exp2,99.76814407,41.45249225
+Erigeron_setosus_AG291,AG_P2P17C,Erigeron,Astereae,mini,5 ng,5,5M,exp2,99.76814407,33.82144257
+Gnephosis_acicularis_AG339,AG_P2P18C,Gnephosis,Gnaphalieae,mini,5 ng,5,5M,exp2,99.66030411,49.77162378
+Gnephosis_acicularis_AG339,AG_P2P17C,Gnephosis,Gnaphalieae,mini,5 ng,5,5M,exp2,99.91912003,38.53591305
+Gnephosis_arachnoidea_AG340,AG_P2P3C,Gnephosis,Gnaphalieae,mini,5 ng,5,5M,exp2,87.30723606,45.9394518
+Gnephosis_arachnoidea_AG340,AG_P2P4C,Gnephosis,Gnaphalieae,mini,5 ng,5,5M,exp2,89.78216327,44.45341697
+Isoetopsis_graminifolia_AG307,AG_P2P15C,Isoetopsis,Astereae,mini,5 ng,5,5M,exp2,98.84072037,70.61717442
+Isoetopsis_graminifolia_AG307,AG_P2P16C,Isoetopsis,Astereae,mini,5 ng,5,5M,exp2,98.87307236,70.15771332
+Kippistia_suaedifolia_AG308,AG_P2P3C,Kippistia,Astereae,mini,5 ng,5,5M,exp2,99.76814407,68.87921285
+Kippistia_suaedifolia_AG308,AG_P2P4C,Kippistia,Astereae,mini,5 ng,5,5M,exp2,99.75196808,68.46414412
+Lagenophora_huegelii_AG233,AG_P2P3C,Lagenophora,Astereae,mini,5 ng,5,5M,exp2,99.3853122,50.42974078
+Lagenophora_huegelii_AG233,AG_P2P4C,Lagenophora,Astereae,mini,5 ng,5,5M,exp2,99.3691362,47.51871063
+Leiocarpa_supina_LL196,AG_P2P11C,Leiocarpa,Gnaphalieae,mini,5 ng,5,5M,exp2,99.57942413,41.90085526
+Leiocarpa_supina_LL196,AG_P2P10C,Leiocarpa,Gnaphalieae,mini,5 ng,5,5M,exp2,99.58481613,31.18786478
+Leiocarpa_websteri_LL200,AG_P2P11C,Leiocarpa,Gnaphalieae,mini,5 ng,5,5M,exp2,99.46080017,49.89481263
+Leiocarpa_websteri_LL200,AG_P2P10C,Leiocarpa,Gnaphalieae,mini,5 ng,5,5M,exp2,99.54168015,42.01183621
+Leucochrysum_stipitatum_LL205,AG_P2P8C,Leucochrysum,Gnaphalieae,mini,5 ng,5,5M,exp2,99.61177612,30.30556627
+Leucochrysum_stipitatum_LL205,AG_P2P9C,Leucochrysum,Gnaphalieae,mini,5 ng,5,5M,exp2,99.61177612,29.54978605
+Millotia_macrocarpa_LL147,AG_P2P8C,Millotia,Gnaphalieae,mini,5 ng,5,5M,exp2,99.56324814,33.93242351
+Millotia_macrocarpa_LL147,AG_P2P9C,Millotia,Gnaphalieae,mini,5 ng,5,5M,exp2,99.09953629,29.65188852
+Minuria_cunninghamii_AG237,AG_P2P1C,Minuria,Astereae,mini,5 ng,5,5M,exp2,99.73040009,50.77378171
+Minuria_cunninghamii_AG237,AG_P2P2C,Minuria,Astereae,mini,5 ng,5,5M,exp2,99.34217621,35.46728996
+Minuria_integerrima_AG240,AG_P2P8C,Minuria,Astereae,mini,5 ng,5,5M,exp2,99.59020813,52.74258364
+Minuria_integerrima_AG240,AG_P2P9C,Minuria,Astereae,mini,5 ng,5,5M,exp2,99.60099213,47.65410738
+Minuria_multiseta_AG243,AG_P2P15C,Minuria,Astereae,mini,5 ng,5,5M,exp2,98.68435242,66.10135983
+Minuria_multiseta_AG243,AG_P2P16C,Minuria,Astereae,mini,5 ng,5,5M,exp2,98.91081635,65.39996026
+Minuria_rigida_AG244,AG_P2P1C,Minuria,Astereae,mini,5 ng,5,5M,exp2,97.62752076,49.97804834
+Minuria_rigida_AG244,AG_P2P2C,Minuria,Astereae,mini,5 ng,5,5M,exp2,99.33678421,34.75368249
+Olearia_adenolasia_AG070,AG_P2P3C,Olearia,Astereae,mini,5 ng,5,5M,exp2,81.58093389,23.04186351
+Olearia_adenolasia_AG070,AG_P2P4C,Olearia,Astereae,mini,5 ng,5,5M,exp2,83.14461339,21.39268669
+Olearia_algida_AG072,AG_P2P15C,Olearia,Astereae,mini,5 ng,5,5M,exp2,95.9236493,24.58005939
+Olearia_algida_AG072,AG_P2P16C,Olearia,Astereae,mini,5 ng,5,5M,exp2,98.4363205,25.99950566
+Olearia_axillaris_AG201,AG_P2P11C,Olearia,Astereae,mini,5 ng,5,5M,exp2,97.84320069,25.33251019
+Olearia_axillaris_AG201,AG_P2P10C,Olearia,Astereae,mini,5 ng,5,5M,exp2,97.58977677,18.56600206
+Olearia_brevipedunculata_AG083,AG_P2P8C,Olearia,Astereae,mini,5 ng,5,5M,exp2,7.403213631,20.62802799
+Olearia_brevipedunculata_AG083,AG_P2P9C,Olearia,Astereae,mini,5 ng,5,5M,exp2,7.586541572,19.13644411
+Olearia_dampieri_subsp_dampieri_AG093,AG_P2P3C,Olearia,Astereae,mini,5 ng,5,5M,exp2,83.54901326,34.44737509
+Olearia_dampieri_subsp_dampieri_AG093,AG_P2P4C,Olearia,Astereae,mini,5 ng,5,5M,exp2,85.12886876,31.13792335
+Olearia_decurrens_AG094,AG_P2P15C,Olearia,Astereae,mini,5 ng,5,5M,exp2,45.14720155,15.49959859
+Olearia_decurrens_AG094,AG_P2P16C,Olearia,Astereae,mini,5 ng,5,5M,exp2,46.71627305,15.18552252
+Olearia_ferresii_AG102,AG_P2P1C,Olearia,Astereae,mini,5 ng,5,5M,exp2,55.66699019,22.77439944
+Olearia_ferresii_AG102,AG_P2P2C,Olearia,Astereae,mini,5 ng,5,5M,exp2,49.97843201,8.946173865
+Olearia_floribunda_AG103,AG_P2P1C,Olearia,Astereae,mini,5 ng,5,5M,exp2,63.19421978,21.52697363
+Olearia_floribunda_AG103,AG_P2P2C,Olearia,Astereae,mini,5 ng,5,5M,exp2,70.89938531,9.240273366
+Olearia_glandulosa_AG105,AG_P2P1C,Olearia,Astereae,mini,5 ng,5,5M,exp2,80.46479025,18.35624807
+Olearia_glandulosa_AG105,AG_P2P2C,Olearia,Astereae,mini,5 ng,5,5M,exp2,81.41917395,5.889758678
+Olearia_homolepis_AG111,AG_P2P1C,Olearia,Astereae,mini,5 ng,5,5M,exp2,68.25191416,23.29268045
+Olearia_homolepis_AG111,AG_P2P2C,Olearia,Astereae,mini,5 ng,5,5M,exp2,72.55472878,13.71724463
+Olearia_humilis_AG113,AG_P2P15C,Olearia,Astereae,mini,5 ng,5,5M,exp2,94.71584169,19.84672215
+Olearia_humilis_AG113,AG_P2P16C,Olearia,Astereae,mini,5 ng,5,5M,exp2,95.56777742,20.15635898
+Olearia_incana_AG116,AG_P2P3C,Olearia,Astereae,mini,5 ng,5,5M,exp2,80.91232611,24.74098176
+Olearia_incana_AG116,AG_P2P4C,Olearia,Astereae,mini,5 ng,5,5M,exp2,75.6227758,23.52796005
+Olearia_lasiophylla_AG121,AG_P2P3C,Olearia,Astereae,mini,5 ng,5,5M,exp2,10.46586865,25.76200644
+Olearia_lasiophylla_AG121,AG_P2P4C,Olearia,Astereae,mini,5 ng,5,5M,exp2,13.29127575,25.16603877
+Olearia_magniflora_AG126,AG_P2P3C,Olearia,Astereae,mini,5 ng,5,5M,exp2,73.1262806,15.59948143
+Olearia_magniflora_AG126,AG_P2P4C,Olearia,Astereae,mini,5 ng,5,5M,exp2,78.7447428,22.89758829
+Olearia_muelleri_AG133,AG_P2P15C,Olearia,Astereae,mini,5 ng,5,5M,exp2,31.52701391,26.74085836
+Olearia_muelleri_AG133,AG_P2P16C,Olearia,Astereae,mini,5 ng,5,5M,exp2,27.62859916,26.93507502
+Olearia_nernstii_AG136,AG_P2P8C,Olearia,Astereae,mini,5 ng,5,5M,exp2,4.620942521,16.23651205
+Olearia_nernstii_AG136,AG_P2P9C,Olearia,Astereae,mini,5 ng,5,5M,exp2,7.413997628,15.86916513
+Olearia_plucheacea_AG147,AG_P2P3C,Olearia,Astereae,mini,5 ng,5,5M,exp2,93.70214602,22.04969388
+Olearia_plucheacea_AG147,AG_P2P4C,Olearia,Astereae,mini,5 ng,5,5M,exp2,98.18289658,20.22072793
+Olearia_ramosissima_AG150,AG_P2P8C,Olearia,Astereae,mini,5 ng,5,5M,exp2,66.80685862,20.55034133
+Olearia_ramosissima_AG150,AG_P2P9C,Olearia,Astereae,mini,5 ng,5,5M,exp2,66.09511485,19.10758906
+Olearia_rugosa_subsp_distalilobata_AG156,AG_P2P1C,Olearia,Astereae,mini,5 ng,5,5M,exp2,35.25827672,20.0764527
+Olearia_rugosa_subsp_distalilobata_AG156,AG_P2P2C,Olearia,Astereae,mini,5 ng,5,5M,exp2,27.01930335,7.158270863
+Olearia_tenuifolia_AG165,AG_P2P1C,Olearia,Astereae,mini,5 ng,5,5M,exp2,80.07117438,18.62260234
+Olearia_tenuifolia_AG165,AG_P2P2C,Olearia,Astereae,mini,5 ng,5,5M,exp2,78.90111075,8.458967523
+Olearia_tomentosa_AG167,AG_P2P18C,Olearia,Astereae,mini,5 ng,5,5M,exp2,65.82551494,16.14106844
+Olearia_tomentosa_AG167,AG_P2P17C,Olearia,Astereae,mini,5 ng,5,5M,exp2,70.78076135,11.15691426
+Pembertonia_latisquamea_AG309,AG_P2P11C,Pembertonia,Astereae,mini,5 ng,5,5M,exp2,99.21816025,42.21715095
+Pembertonia_latisquamea_AG309,AG_P2P10C,Pembertonia,Astereae,mini,5 ng,5,5M,exp2,99.01326432,33.59393163
+Rhodanthe_chlorocephala_AG351,AG_P2P15C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp2,99.94068802,45.29354271
+Rhodanthe_chlorocephala_AG351,AG_P2P16C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp2,99.66030411,46.95159801
+Rhodanthe_citrina_AG352,AG_P2P18C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp2,99.54707214,42.3048259
+Rhodanthe_citrina_AG352,AG_P2P17C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp2,99.87598404,42.38251256
+Rhodanthe_condensata_AG354,AG_P2P3C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp2,95.13102556,44.76638323
+Rhodanthe_condensata_AG354,AG_P2P4C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp2,96.64617707,43.67655036
+Rhodanthe_humboldtiana_AG362,AG_P2P15C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp2,99.28825623,55.72575141
+Rhodanthe_humboldtiana_AG362,AG_P2P16C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp2,99.24512024,57.25617862
+Rhodanthe_polygalifolia_AG369,AG_P2P15C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp2,98.1128006,51.04013597
+Rhodanthe_polygalifolia_AG369,AG_P2P16C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp2,98.55494446,52.92126296
+Rhodanthe_polyphylla_AG370,AG_P2P3C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp2,97.28782487,25.1693682
+Rhodanthe_polyphylla_AG370,AG_P2P4C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp2,98.7490564,24.1217081
+Rhodanthe_pygmaea_AG372,AG_P2P18C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp2,99.39609619,48.11800772
+Rhodanthe_pygmaea_AG372,AG_P2P17C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp2,95.65944139,8.18928383
+Rhodanthe_rubella_AG374,AG_P2P18C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp2,99.46619217,53.2198017
+Rhodanthe_rubella_AG374,AG_P2P17C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp2,99.35835221,50.14895899
+Rhodanthe_sterilescens_AG376,AG_P2P15C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp2,98.66817643,61.80306788
+Rhodanthe_sterilescens_AG376,AG_P2P16C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp2,99.63873612,63.1104234
+Rhodanthe_stuartiana_AG378,AG_P2P11C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp2,98.98091233,49.68061941
+Rhodanthe_stuartiana_AG378,AG_P2P10C,Rhodanthe,Gnaphalieae,mini,5 ng,5,5M,exp2,98.19368058,35.70589899
+Solenogyne_gunnii_AG249,AG_P2P1C,Solenogyne,Astereae,mini,5 ng,5,5M,exp2,99.6764801,46.81842087
+Solenogyne_gunnii_AG249,AG_P2P2C,Solenogyne,Astereae,mini,5 ng,5,5M,exp2,99.43384018,25.86632853
+Tetramolopium_sp_Mt_Bowen_DGFell_1224_AG311,AG_P2P15C,Tetramolopium,Astereae,mini,5 ng,5,5M,exp2,99.19120026,23.92527183
+Tetramolopium_sp_Mt_Bowen_DGFell_1224_AG311,AG_P2P16C,Tetramolopium,Astereae,mini,5 ng,5,5M,exp2,99.22894425,26.50446895
+Vittadinia_arida_AG250,AG_P2P1C,Vittadinia,Astereae,mini,5 ng,5,5M,exp2,98.77601639,59.63339043
+Vittadinia_arida_AG250,AG_P2P2C,Vittadinia,Astereae,mini,5 ng,5,5M,exp2,99.71961609,45.85066705
+Vittadinia_australasica_var_australasica_AG251,AG_P2P8C,Vittadinia,Astereae,mini,5 ng,5,5M,exp2,99.51472016,43.78975092
+Vittadinia_australasica_var_australasica_AG251,AG_P2P9C,Vittadinia,Astereae,mini,5 ng,5,5M,exp2,98.54416047,41.03964314
+Vittadinia_blackii_AG253,AG_P2P1C,Vittadinia,Astereae,mini,5 ng,5,5M,exp2,96.27412919,53.72032576
+Vittadinia_blackii_AG253,AG_P2P2C,Vittadinia,Astereae,mini,5 ng,5,5M,exp2,95.01779359,27.99716265
+Vittadinia_gracilis_AG262,AG_P2P3C,Vittadinia,Astereae,mini,5 ng,5,5M,exp2,98.17750458,58.37153711
+Vittadinia_gracilis_AG262,AG_P2P4C,Vittadinia,Astereae,mini,5 ng,5,5M,exp2,98.87307236,59.03187372
+Vittadinia_nullarborensis_AG267,AG_P2P11C,Vittadinia,Astereae,mini,5 ng,5,5M,exp2,99.76814407,58.22837169
+Vittadinia_nullarborensis_AG267,AG_P2P10C,Vittadinia,Astereae,mini,5 ng,5,5M,exp2,99.60638413,52.30864816
+Vittadinia_scabra_AG271,AG_P2P3C,Vittadinia,Astereae,mini,5 ng,5,5M,exp2,22.45228082,55.42610286
+Vittadinia_scabra_AG271,AG_P2P4C,Vittadinia,Astereae,mini,5 ng,5,5M,exp2,20.59204141,54.87119814
+Xerochrysum_bracteatum_LL171,AG_P2P11C,Xerochrysum,Gnaphalieae,mini,5 ng,5,5M,exp2,99.57403214,22.1817612
+Xerochrysum_bracteatum_LL171,AG_P2P10C,Xerochrysum,Gnaphalieae,mini,5 ng,5,5M,exp2,99.59560013,11.05703141
+Xerochrysum_interiore_LL172,AG_P2P8C,Xerochrysum,Gnaphalieae,mini,5 ng,5,5M,exp2,99.66569611,18.89228603
+Xerochrysum_interiore_LL172,AG_P2P9C,Xerochrysum,Gnaphalieae,mini,5 ng,5,5M,exp2,99.41227219,15.12892223
